@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/console": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {"Synnex\\": "src/Synnex/"}
+    }
+}
