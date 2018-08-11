@@ -1,0 +1,1 @@
+select * from flat_file where SYNNEX_CAT_Code in (002057659,002057660,002057661)
