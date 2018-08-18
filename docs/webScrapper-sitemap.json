@@ -1,0 +1,662 @@
+{
+  "_id": "mass-synnex",
+  "startUrl": [
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5178509",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5164524",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5171162",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5171163",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5172606",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5171160",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5171158",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5096388",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4473004",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4424177",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4424172",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4652057",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885174",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4383205",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4425178",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885173",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4587500",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885165",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885162",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885172",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4420654",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4373918",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4425176",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4420652",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885166",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4416876",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885160",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885167",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4933627",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4373921",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4419073",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885171",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4416871",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885168",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4933625",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4419485",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4885159",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4416863",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=5096389",
+    "https://ec.synnex.com/ecx/part/techNote.html?skuNo=4358005"
+  ],
+  "selectors": [
+    {
+      "id": "name",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "h1",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "short_description",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "p.product-description",
+      "multiple": true,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "manufacturer_part_number",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "dd:nth-of-type(1) strong",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "sku",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "dd:nth-of-type(2) strong",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "unspsc",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "dd:nth-of-type(3) strong",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "snx_number",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "dd:nth-of-type(4) strong",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "weight(lbs)",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "dt:contains('Weight(lbs):') + dd strong",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_system_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('System Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primar_info_processor_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(1) tr:contains('Processor / Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_processor_manufacturer",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(1) tr:contains('Processor / Manufacturer:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_processor_clock_speed",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(1) tr:contains('Processor / Clock Speed:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_processor_number",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(1) tr:contains('Processor / Number:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_hard_drive_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Hard Drive / Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_hard_drive_capacity_hdd",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(1) tr:contains('Hard Drive Capacity / HDD:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_hard_drive_capacity_ssd",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(1) tr:contains('Hard Drive Capacity / SSD:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "processor_processor_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(2) tr:contains('Processor / Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "processor_processor_manufacturer",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(2) tr:contains('Processor / Manufacturer:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "processor_processor_clock_speed",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(2) tr:contains('Processor / Clock Speed:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "processor_processor_number",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(2) tr:contains('Processor / Number:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "processor_cache_memory_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Cache Memory Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "processor_cache_memory_installed_size",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Cache Memory Installed Size:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "display_display_diagonal_size",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Display Diagonal Size:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "memory_ram__total_installed_size",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('RAM / Total Installed Size:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "memory_ram_technology",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('RAM / Technology:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "storage_hard_drive_capacity_hdd",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(5) tr:contains('Hard Drive Capacity / HDD:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "storage_hard_drive_capacity_ssd",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel li.tree-item:nth-of-type(5) tr:contains('Hard Drive Capacity / SSD:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "video_graphics_controller",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Graphics Controller:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "networking_data_link_protocol",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Data Link Protocol:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "software_operating_system",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Operating System:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "dimensions_misc_weight",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Weight:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "unspsc_code",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('UNSPSC Code:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "image",
+      "type": "SelectorImage",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "img.product-main-img",
+      "multiple": false,
+      "delay": 0
+    },
+    {
+      "id": "primary_info_model",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Model:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "storage_optical_storage_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Optical Storage Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "power_battery_cell_count",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Cell Count:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "service_support_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Service & Support Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "warranty",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "dt:contains('Warranty') + dd strong",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "product_tour_info",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "section.panel div.product-info",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "product_tour_link",
+      "type": "SelectorElementAttribute",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#flix-minisite a",
+      "multiple": false,
+      "extractAttribute": "onclick",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_mainboard_chipset_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Mainboard / Chipset Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_ssd_installed_qty",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('SSD / Installed Qty:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_webcam",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Webcam:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "primary_info_input_device_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Input Device Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "display_max_resolution",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Max Resolution:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "memory_ram_installed_qty",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('RAM / Installed Qty:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "storage_hard_drive_spindle_speed",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Hard Drive / Spindle Speed:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "video_video_memory_installed_size",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Video Memory / Installed Size:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "power_battery_battery_technology",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Battery Technology:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "power_battery_battery_capacity",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Battery Capacity:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "power_battery_power_device_type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Power / Device Type:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "power_battery_power_provided_w",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Power / Provided (W):') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "dimensions_misc_width",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Width:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "dimensions_misc_depth",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Depth:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "dimensions_misc_height",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Height:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "dimensions_misc_expansion_slots_total_free",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Expansion Slots Total (Free):') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    },
+    {
+      "id": "dimensions_misc_interfaces",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "div#tabContext_spec.ui-tabs-panel tr:contains('Interfaces:') td:nth-of-type(2)",
+      "multiple": false,
+      "regex": "",
+      "delay": 0
+    }
+  ]
+}
