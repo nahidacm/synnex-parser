@@ -1,363 +1,368 @@
-CREATE TABLE icecat_data(
-   Requested_prod_id                                                             VARCHAR(511)
-  ,Requested_GTINEANUPC                                                          VARCHAR(30)
-  ,Requested_Icecat_id                                                           INTEGER  NOT NULL
-  ,ErrorMessage                                                                  VARCHAR(136)
-  ,Supplier                                                                      VARCHAR(7)
-  ,Prod_id                                                                       VARCHAR(17)
-  ,Icecat_id                                                                     INTEGER
-  ,GTINEANUPC                                                                    VARCHAR(27)
-  ,Category                                                                      VARCHAR(16)
-  ,CatId                                                                         INTEGER
-  ,ProductFamily                                                                 VARCHAR(18)
-  ,ProductSeries                                                                 VARCHAR(7)
-  ,Model                                                                         VARCHAR(48)
-  ,Updated                                                                       INTEGER
-  ,Quality                                                                       VARCHAR(8)
-  ,On_Market                                                                     VARCHAR(30)
-  ,Product_Views                                                                 INTEGER
-  ,HighPic                                                                       VARCHAR(80)
-  ,HighPic_Resolution                                                            VARCHAR(9)
-  ,LowPic                                                                        VARCHAR(84)
-  ,Pic500x500                                                                    VARCHAR(90)
-  ,ThumbPic                                                                      VARCHAR(88)
-  ,Folder_PDF                                                                    VARCHAR(124)
-  ,Folder_Manual_PDF                                                             VARCHAR(106)
-  ,ProductTitle                                                                  VARCHAR(125)
-  ,ShortDesc                                                                     VARCHAR(277)
-  ,ShortSummaryDescription                                                       VARCHAR(116)
-  ,LongSummaryDescription                                                        VARCHAR(511)
-  ,LongDesc                                                                      VARCHAR(6559)
-  ,Short_Marketing_Text                                                          VARCHAR(234)
-  ,SEO_Title                                                                     VARCHAR(30)
-  ,SEO_Description                                                               VARCHAR(30)
-  ,SEO_Keywords                                                                  VARCHAR(30)
-  ,ProductGallery                                                                VARCHAR(1641)
-  ,ProductGallery_Resolution                                                     VARCHAR(219)
-  ,ProductGallery_ExpirationDate                                                 VARCHAR(23)
-  ,three_sixty                                                                           VARCHAR(30)
-  ,EU_Energy_Label                                                               VARCHAR(30)
-  ,EU_Product_Fiche                                                              VARCHAR(30)
-  ,PDF                                                                           VARCHAR(4079)
-  ,Videomp4                                                                      VARCHAR(1881)
-  ,Other_Multimedia                                                              VARCHAR(30)
-  ,ProductMultimediaObject_ExpirationDate                                        VARCHAR(30)
-  ,ReasonsToBuy                                                                  VARCHAR(2783)
-  ,Bullet_Points                                                                 VARCHAR(173)
-  ,Your_product_ID                                                               INTEGER  NOT NULL
-  ,Mini_DisplayPorts_quantity                                                    BIT
-  ,HP_segment                                                                    VARCHAR(8)
-  ,Thunderbolt_2_ports_quantity                                                  VARCHAR(30)
-  ,Touchscreen_type                                                              VARCHAR(10)
-  ,Intel_AntiTheft_Technology_Intel_AT                                         VARCHAR(1)
-  ,WLAN_controller_model                                                         VARCHAR(32)
-  ,Market_positioning                                                            VARCHAR(16)
-  ,Intel_Rapid_Storage_Technology                                                VARCHAR(1)
-  ,Recovery_operating_system                                                     VARCHAR(22)
-  ,Builtin_subwoofer                                                             VARCHAR(1)
-  ,Front_camera_resolution                                                       VARCHAR(17)
-  ,Touch_technology                                                              VARCHAR(11)
-  ,Graphics_adapter_Open_GL_support                                              VARCHAR(1)
-  ,Certification                                                                 VARCHAR(12)
-  ,Number_of_discrete_graphics_adapters_installed                                BIT
-  ,Auto_focus                                                                    VARCHAR(1)
-  ,WWAN                                                                          VARCHAR(1)
-  ,Intel_Builtin_Visuals_Technology                                             VARCHAR(1)
-  ,Intel_Smart_Connect_Technology                                                VARCHAR(1)
-  ,HP_speaker_type                                                               VARCHAR(16)
-  ,Cable_lock_slot_type                                                          VARCHAR(10)
-  ,ECC                                                                           VARCHAR(1)
-  ,HP_Management_tools                                                           VARCHAR(227)
-  ,Electronic_compass                                                            VARCHAR(1)
-  ,ExpressCard_slot                                                              VARCHAR(1)
-  ,Intel_FDI_Technology                                                          VARCHAR(1)
-  ,Accelerometer                                                                 VARCHAR(1)
-  ,Stylus_pen                                                                    VARCHAR(1)
-  ,Number_of_microphones                                                         INTEGER
-  ,SPDIF_out_port                                                                VARCHAR(1)
-  ,Firewire_IEEE_1394_ports                                                      VARCHAR(30)
-  ,Audio_decoders                                                                VARCHAR(19)
-  ,HP_Software_provided                                                          VARCHAR(289)
-  ,SIM_card_support                                                              VARCHAR(1)
-  ,Ambient_light_sensor                                                          VARCHAR(1)
-  ,HP_Security_tools                                                             VARCHAR(179)
-  ,HP_JumpStart                                                                  VARCHAR(1)
-  ,Screen_shape                                                                  VARCHAR(4)
-  ,Intel_HD_Graphics                                                             VARCHAR(1)
-  ,Drivers_included                                                              VARCHAR(1)
-  ,Hard_drive_capacity                                                           VARCHAR(7)
-  ,Display_brightness                                                            VARCHAR(9)
-  ,Intel_segment_tagging                                                         VARCHAR(27)
-  ,Speakers_manufacturer                                                         VARCHAR(14)
-  ,3D                                                                            VARCHAR(1)
-  ,SmartCard_slot                                                                VARCHAR(1)
-  ,Hard_drive_speed                                                              VARCHAR(8)
-  ,Warranty_card                                                                 VARCHAR(1)
-  ,Discrete_graphics_memory_type                                                 VARCHAR(5)
-  ,Power_cord_included                                                           VARCHAR(1)
-  ,Intel_Stable_Image_Platform_Program_SIPP_version                              BIT
-  ,Intel_Smart_Response_Technology_version                                       BIT
-  ,Intel_Small_Business_Advantage_SBA_version                                    BIT
-  ,Intel_TSXNI_version                                                           BIT
-  ,AC_adapter_frequency                                                          VARCHAR(5)
-  ,Battery_life_max                                                              VARCHAR(7)
-  ,USB_SleepandCharge_ports                                                      BIT
-  ,USB_SleepandCharge                                                            VARCHAR(1)
-  ,Islandstyle_keyboard                                                          VARCHAR(1)
-  ,Contrast_ratio_typical                                                        VARCHAR(6)
-  ,Fullsize_keyboard                                                             VARCHAR(1)
-  ,Maximum_internal_memory_64bit                                                 VARCHAR(5)
-  ,Hard_drive_interface                                                          VARCHAR(8)
-  ,Audio_system                                                                  VARCHAR(21)
-  ,LightScribe                                                                   VARCHAR(1)
-  ,Housing_material                                                              VARCHAR(56)
-  ,Front_camera_HD_type                                                          VARCHAR(2)
-  ,Audio_chip                                                                    VARCHAR(16)
-  ,SSD_form_factor                                                               VARCHAR(4)
-  ,Microphone_in                                                                 VARCHAR(1)
-  ,AC_adapter_input_voltage                                                      VARCHAR(9)
-  ,Quick_start_guide                                                             VARCHAR(1)
-  ,Motherboard_chipset                                                           VARCHAR(12)
-  ,Near_Field_Communication_NFC                                                  VARCHAR(1)
-  ,Height_front                                                                  VARCHAR(7)
-  ,Configurable_TDPdown                                                          VARCHAR(5)
-  ,Height_rear                                                                   VARCHAR(7)
-  ,Intel_Dual_Display_Capable_Technology                                         VARCHAR(1)
-  ,Intel_Fast_Memory_Access                                                      VARCHAR(1)
-  ,eSATA_ports_quantity                                                          VARCHAR(30)
-  ,Preinstalled_software                                                         VARCHAR(30)
-  ,Maximum_resolution                                                            VARCHAR(18)
-  ,WiFi_certified                                                                VARCHAR(1)
-  ,eSATAUSB_20_ports_quantity                                                    VARCHAR(30)
-  ,Weight_tablet_mode                                                            VARCHAR(7)
-  ,Power_autosensing                                                             VARCHAR(1)
-  ,eSATAUSB_30_ports_quantity                                                    VARCHAR(30)
-  ,Bundled_software                                                              VARCHAR(15)
-  ,Serial_ports_quantity                                                         BIT
-  ,Nonoperating_shock                                                            VARCHAR(4)
-  ,Operating_shock                                                               VARCHAR(4)
-  ,Nonoperating_altitude                                                         VARCHAR(13)
-  ,Nonoperating_vibration                                                        VARCHAR(3)
-  ,Operating_vibration                                                           VARCHAR(5)
-  ,Battery_capacity                                                              VARCHAR(8)
-  ,HP_Sure_Connect                                                               VARCHAR(1)
-  ,Trial_software                                                                VARCHAR(17)
-  ,Height_tablet_mode                                                            VARCHAR(7)
-  ,Depth_tablet_mode                                                             VARCHAR(7)
-  ,HP_Audio_Boost                                                                VARCHAR(1)
-  ,Intel_Memory_Protection_Extensions_Intel_MPX                                VARCHAR(1)
-  ,Hard_drive_2_capacity                                                         VARCHAR(6)
-  ,HP_Audio_Switch                                                               VARCHAR(1)
-  ,HP_CoolSense                                                                  VARCHAR(1)
-  ,Quick_charge_time_90                                                          VARCHAR(6)
-  ,HP_Imagepad                                                                   VARCHAR(1)
-  ,HP_Orbit                                                                      VARCHAR(1)
-  ,Intel_Secure_Boot                                                             VARCHAR(1)
-  ,Flash_drive_interface                                                         VARCHAR(30)
-  ,Display_glass_type                                                            VARCHAR(13)
-  ,Colour_name                                                                   VARCHAR(5)
-  ,Width_tablet_mode                                                             VARCHAR(7)
-  ,Windows_Hello                                                                 VARCHAR(1)
-  ,MicroUSB_20_ports_quantity                                                    VARCHAR(30)
-  ,MicroUSB_30_ports_quantity                                                    VARCHAR(30)
-  ,4G_standard                                                                   VARCHAR(30)
-  ,Mini_DisplayPortThunderbolt_combo_port                                        VARCHAR(1)
-  ,AC_adapter_output_current                                                     VARCHAR(6)
-  ,Operating_altitude                                                            VARCHAR(12)
-  ,UART                                                                          VARCHAR(1)
-  ,Scenario_Design_Power_SDP                                                     VARCHAR(3)
-  ,Intel_High_Definition_Audio_Intel_HD_Audio                                  VARCHAR(1)
-  ,Onboard_graphics_adapter_burst_frequency                                      VARCHAR(7)
-  ,Number_of_execution_units                                                     INTEGER
-  ,HP_Support_Assistant                                                          VARCHAR(1)
-  ,HP_front_camera                                                               VARCHAR(17)
-  ,Intel_Optane_Memory_Ready                                                   VARCHAR(1)
-  ,CardBus_PCMCIA_slot_type                                                      VARCHAR(1)
-  ,CardBus_PCMCIA_slots_quantity                                                 VARCHAR(30)
-  ,USB_TypeC_DisplayPort_Alternate_Mode                                          VARCHAR(1)
-  ,Intel_Demand_Based_Switching                                                  VARCHAR(1)
-  ,FSB_Parity                                                                    VARCHAR(1)
-  ,HP_Smart_AC_Adapter                                                           VARCHAR(1)
-  ,AC_adapter_output_voltage                                                     INTEGER
-  ,Number_of_discrete_graphics_adapters_supported                                BIT
-  ,HP_ePrint                                                                     VARCHAR(1)
-  ,Hard_drive_size                                                               VARCHAR(4)
-  ,HP_Recovery_Manager                                                           VARCHAR(1)
-  ,Operating_relative_humidity_HH                                                VARCHAR(8)
-  ,Swivel_webcam                                                                 VARCHAR(1)
-  ,TV_tuner_integrated                                                           VARCHAR(1)
-  ,Cables_included                                                               VARCHAR(2)
-  ,Flash_memory                                                                  VARCHAR(6)
-  ,Rear_camera                                                                   VARCHAR(1)
-  ,Onoff_button                                                                  VARCHAR(1)
-  ,Onboard_graphics_adapter_4K_support                                           VARCHAR(1)
-  ,Front_camera_resolution_numeric                                               VARCHAR(4)
-  ,Storage_relative_humidity_HH                                                  VARCHAR(8)
-  ,Keyboard_number_of_keys                                                       VARCHAR(30)
-  ,GPS_satellite                                                                 VARCHAR(1)
-  ,Operating_temperature_TT                                                      VARCHAR(9)
-  ,Storage_temperature_TT                                                        VARCHAR(11)
-  ,Quick_charge                                                                  VARCHAR(1)
-  ,Optional_operating_system_supplied                                            VARCHAR(14)
-  ,Infrared_IR_camera                                                            VARCHAR(1)
-  ,Gyroscope                                                                     VARCHAR(1)
-  ,Intel_Secure_Key_Technology_version                                           BIT
-  ,Number_of_hard_drives_installed                                               INTEGER
-  ,Intel_Clear_Video_Technology                                                  VARCHAR(1)
-  ,Maximum_number_of_PCI_Express_lanes                                           INTEGER
-  ,Onboard_graphics_adapter_ID                                                   INTEGER
-  ,ECC_supported_by_processor                                                    VARCHAR(1)
-  ,Maximum_onboard_graphics_adapter_memory                                       VARCHAR(7)
-  ,Processor_ARK_ID                                                              INTEGER
-  ,Processor_package_size                                                        VARCHAR(7)
-  ,Number_of_displays_supported_onboard_graphics                                 INTEGER
-  ,Processor_codename                                                            VARCHAR(11)
-  ,Intel_Virtualization_Technology_for_Directed_IO_VTd                           VARCHAR(1)
-  ,Intel_VTx_with_Extended_Page_Tables_EPT                                       VARCHAR(1)
-  ,Tjunction                                                                     VARCHAR(6)
-  ,Intel_CVT_for_MID                                                             VARCHAR(1)
-  ,Embedded_options_available                                                    VARCHAR(1)
-  ,PCI_Express_configurations                                                    VARCHAR(19)
-  ,Intel_OS_Guard                                                               VARCHAR(1)
-  ,Intel_64                                                                      VARCHAR(1)
-  ,Thermal_Design_Power_TDP                                                      VARCHAR(5)
-  ,HDMI_ports_quantity                                                           BIT
-  ,Weight                                                                        VARCHAR(7)
-  ,Bus_type                                                                      VARCHAR(4)
-  ,Onboard_graphics_adapter_dynamic_frequency_max                                VARCHAR(8)
-  ,Intel_Flex_Memory_Access                                                      VARCHAR(1)
-  ,Intel_Software_Guard_Extensions_Intel_SGX                                     VARCHAR(1)
-  ,Onboard_graphics_adapter_OpenGL_version                                       NUMERIC(3,1)
-  ,Front_camera                                                                  VARCHAR(1)
-  ,Conflict_Free_processor                                                       VARCHAR(1)
-  ,Supported_instruction_sets                                                    VARCHAR(21)
-  ,Intel_My_WiFi_Technology_Intel_MWT                                          VARCHAR(1)
-  ,Idle_States                                                                   VARCHAR(1)
-  ,Battery_technology                                                            VARCHAR(22)
-  ,Intel_Virtualization_Technology_VTx                                           VARCHAR(1)
-  ,Onboard_graphics_adapter                                                      VARCHAR(1)
-  ,Combo_headphonemic_port                                                       VARCHAR(1)
-  ,Ethernet_LAN                                                                  VARCHAR(1)
-  ,Card_reader_integrated                                                        VARCHAR(1)
-  ,Processor_boost_frequency                                                     VARCHAR(8)
-  ,Memory_clock_speed                                                            VARCHAR(8)
-  ,Intel_Enhanced_Halt_State                                                     VARCHAR(1)
-  ,CPU_configuration_max                                                         BIT
-  ,Touchscreen                                                                   VARCHAR(1)
-  ,Operating_system_installed                                                    VARCHAR(25)
-  ,Processor_family                                                              VARCHAR(23)
-  ,Processor_cores                                                               INTEGER
-  ,Onboard_graphics_adapter_model                                                VARCHAR(23)
-  ,Display_resolution                                                            VARCHAR(18)
-  ,Internal_memory_type                                                          VARCHAR(12)
-  ,Processor_frequency                                                           VARCHAR(8)
-  ,Processor_model                                                               VARCHAR(12)
-  ,USB_30_31_Gen_1_TypeA_ports_quantity                                          INTEGER
-  ,Width                                                                         VARCHAR(8)
-  ,Numeric_keypad                                                                VARCHAR(1)
-  ,Display_diagonal                                                              VARCHAR(15)
-  ,Depth                                                                         VARCHAR(8)
-  ,Colour_of_product                                                             VARCHAR(15)
-  ,Product_type                                                                  VARCHAR(18)
-  ,Internal_memory                                                               VARCHAR(5)
-  ,Total_storage_capacity                                                        VARCHAR(7)
-  ,LED_backlight                                                                 VARCHAR(1)
-  ,Processor_cache                                                               VARCHAR(5)
-  ,Intel_AES_New_Instructions_Intel_AESNI                                      VARCHAR(1)
-  ,Intel_Clear_Video_HD_Technology_Intel_CVT_HD                                VARCHAR(1)
-  ,Intel_Quick_Sync_Video_Technology                                            VARCHAR(1)
-  ,Enhanced_Intel_SpeedStep_Technology                                           VARCHAR(1)
-  ,Execute_Disable_Bit                                                           VARCHAR(1)
-  ,Onboard_graphics_adapter_base_frequency                                       VARCHAR(7)
-  ,Intel_Trusted_Execution_Technology                                            VARCHAR(1)
-  ,Thermal_Monitoring_Technologies                                               VARCHAR(1)
-  ,Intel_Turbo_Boost_Technology                                                 VARCHAR(1)
-  ,Intel_Hyper_Threading_Technology_Intel_HT_Technology                        VARCHAR(1)
-  ,Aspect_ratio                                                                  VARCHAR(4)
-  ,Optical_drive_type                                                            VARCHAR(18)
-  ,Storage_media                                                                 VARCHAR(7)
-  ,Processor_lithography                                                         VARCHAR(5)
-  ,Processor_threads                                                             INTEGER
-  ,Processor_operating_modes                                                     VARCHAR(14)
-  ,PCI_Express_slots_version                                                     INTEGER
-  ,4G                                                                            VARCHAR(1)
-  ,Discrete_graphics_adapter                                                     VARCHAR(1)
-  ,Intel_Wireless_Display_Intel_WiDi                                           VARCHAR(1)
-  ,Cable_lock_slot                                                               VARCHAR(1)
-  ,Thunderbolt_3_ports_quantity                                                  INTEGER
-  ,Graphics_IMC_lithography                                                      VARCHAR(5)
-  ,Intel_Identity_Protection_Technology_Intel_IPT                              VARCHAR(1)
-  ,Onboard_graphics_adapter_family                                               VARCHAR(19)
-  ,Panel_type                                                                    VARCHAR(3)
-  ,Processor_series                                                              VARCHAR(42)
-  ,AC_adapter_included                                                           VARCHAR(1)
-  ,Keyboard_backlit                                                              VARCHAR(1)
-  ,VGA_DSub_ports_quantity                                                       BIT
-  ,Docking_connector                                                             VARCHAR(1)
-  ,Ethernet_LAN_data_rates                                                       VARCHAR(18)
-  ,Spill_resistant_keyboard                                                      VARCHAR(1)
-  ,Thunderbolt_ports_quantity                                                    BIT
-  ,USB_30_31_Gen_1_TypeC_ports_quantity                                          INTEGER
-  ,DVI_port                                                                      VARCHAR(1)
-  ,Configurable_TDPdown_frequency                                                VARCHAR(7)
-  ,USB_31_31_Gen_2_TypeC_ports_quantity                                          INTEGER
-  ,Intel_Small_Business_Advantage_Intel_SBA                                    VARCHAR(1)
-  ,Discrete_graphics_adapter_memory                                              VARCHAR(4)
-  ,Speaker_power                                                                 VARCHAR(5)
-  ,Intel_Smart_Cache                                                            VARCHAR(1)
-  ,Manual                                                                        VARCHAR(1)
-  ,RoHS_compliance                                                               VARCHAR(1)
-  ,Headphone_outputs                                                             BIT
-  ,Solidstate_drive_interface                                                    VARCHAR(15)
-  ,Intel_vPro_Technology                                                       VARCHAR(1)
-  ,EPEAT_compliance                                                              VARCHAR(6)
-  ,Display_surface                                                               VARCHAR(5)
-  ,Password_protection_type                                                      VARCHAR(25)
-  ,HDMI_version                                                                  VARCHAR(4)
-  ,Password_protection                                                           VARCHAR(1)
-  ,Intel_Insider                                                               VARCHAR(1)
-  ,Fingerprint_reader                                                            VARCHAR(1)
-  ,Windows_keys                                                                  VARCHAR(1)
-  ,Front_camera_signal_format                                                    VARCHAR(4)
-  ,USB_31_31_Gen_2_TypeA_ports_quantity                                          BIT
-  ,Memory_layout_slots_x_size                                                    VARCHAR(13)
-  ,Number_of_SSDs_installed                                                      INTEGER
-  ,Compatible_memory_cards                                                       VARCHAR(42)
-  ,Intel_InTru_3D_Technology                                                   VARCHAR(1)
-  ,Maximum_internal_memory                                                       VARCHAR(5)
-  ,Processor_socket                                                              VARCHAR(20)
-  ,WiFi                                                                          VARCHAR(1)
-  ,Processor_cache_type                                                          VARCHAR(11)
-  ,DisplayPorts_quantity                                                         BIT
-  ,Bluetooth                                                                     VARCHAR(1)
-  ,Pointing_device                                                               VARCHAR(25)
-  ,AC_adapter_power                                                              VARCHAR(5)
-  ,HD_type                                                                       VARCHAR(12)
-  ,Discrete_graphics_adapter_model                                               VARCHAR(23)
-  ,Operating_system_architecture                                                 VARCHAR(6)
-  ,Ethernet_LAN_RJ45_ports                                                       BIT
-  ,3G                                                                            VARCHAR(1)
-  ,Intel_Secure_Key                                                             VARCHAR(1)
-  ,System_bus_rate                                                               VARCHAR(6)
-  ,USB_20_ports_quantity                                                         INTEGER
-  ,WiFi_standards                                                                VARCHAR(65)
-  ,Intel_Smart_Response_Technology                                              VARCHAR(1)
-  ,Solidstate_drive_capacity                                                     VARCHAR(7)
-  ,Trusted_Platform_Module_TPM                                                   VARCHAR(1)
-  ,Bluetooth_version                                                             NUMERIC(3,1)
-  ,Processor_code                                                                VARCHAR(7)
-  ,Intel_Stable_Image_Platform_Program_SIPP                                      VARCHAR(1)
-  ,DCin_jack                                                                     VARCHAR(1)
-  ,Builtin_microphone                                                            VARCHAR(1)
-  ,Memory_slots                                                                  VARCHAR(10)
-  ,Memory_form_factor                                                            VARCHAR(18)
-  ,Height                                                                        VARCHAR(7)
-  ,Intel_TSXNI                                                                   VARCHAR(1)
-  ,Energy_Star_certified                                                         VARCHAR(1)
-  ,Onboard_graphics_adapter_DirectX_version                                      INTEGER
-  ,Number_of_battery_cells                                                       VARCHAR(3)
-  ,Stepping                                                                      VARCHAR(2)
-  ,Number_of_builtin_speakers                                                    INTEGER
-  ,Battery_capacity_Watt_hours                                                   VARCHAR(8)
-  ,Form_factor                                                                   VARCHAR(24)
+DROP TABLE IF EXISTS `icecat_data`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `icecat_data` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `Requested_prod_id` varchar(511) DEFAULT NULL,
+  `Requested_GTINEANUPC` varchar(255) DEFAULT NULL,
+  `Requested_Icecat_id` varchar(255) DEFAULT NULL,
+  `ErrorMessage` varchar(511) DEFAULT NULL,
+  `Supplier` varchar(127) DEFAULT NULL,
+  `Prod_id` varchar(255) DEFAULT NULL,
+  `Icecat_id` varchar(255) DEFAULT NULL,
+  `GTINEANUPC` varchar(255) DEFAULT NULL,
+  `Category` varchar(511) DEFAULT NULL,
+  `CatId` varchar(255) DEFAULT NULL,
+  `ProductFamily` varchar(511) DEFAULT NULL,
+  `ProductSeries` varchar(511) DEFAULT NULL,
+  `Model` varchar(511) DEFAULT NULL,
+  `Updated` varchar(511) DEFAULT NULL,
+  `Quality` varchar(255) DEFAULT NULL,
+  `On_Market` varchar(255) DEFAULT NULL,
+  `Product_Views` varchar(255) DEFAULT NULL,
+  `HighPic` varchar(511) DEFAULT NULL,
+  `HighPic_Resolution` varchar(255) DEFAULT NULL,
+  `LowPic` varchar(511) DEFAULT NULL,
+  `Pic500x500` varchar(511) DEFAULT NULL,
+  `ThumbPic` varchar(511) DEFAULT NULL,
+  `Folder_PDF` text,
+  `Folder_Manual_PDF` text,
+  `ProductTitle` varchar(1023) DEFAULT NULL,
+  `ShortDesc` text,
+  `ShortSummaryDescription` text,
+  `LongSummaryDescription` text,
+  `LongDesc` text,
+  `Short_Marketing_Text` text,
+  `SEO_Title` varchar(1023) DEFAULT NULL,
+  `SEO_Description` text,
+  `SEO_Keywords` varchar(511) DEFAULT NULL,
+  `ProductGallery` text,
+  `ProductGallery_Resolution` varchar(1023) DEFAULT NULL,
+  `ProductGallery_ExpirationDate` varchar(23) DEFAULT NULL,
+  `three_sixty` varchar(511) DEFAULT NULL,
+  `EU_Energy_Label` varchar(511) DEFAULT NULL,
+  `EU_Product_Fiche` varchar(511) DEFAULT NULL,
+  `PDF` varchar(4079) DEFAULT NULL,
+  `Videomp4` text,
+  `Other_Multimedia` text,
+  `ProductMultimediaObject_ExpirationDate` varchar(511) DEFAULT NULL,
+  `ReasonsToBuy` text,
+  `Bullet_Points` text,
+  `Your_product_ID` varchar(511) NOT NULL,
+  `Mini_DisplayPorts_quantity` varchar(511) DEFAULT NULL,
+  `HP_segment` varchar(511) DEFAULT NULL,
+  `Thunderbolt_2_ports_quantity` varchar(511) DEFAULT NULL,
+  `Touchscreen_type` varchar(511) DEFAULT NULL,
+  `Intel_AntiTheft_Technology_Intel_AT` varchar(511) DEFAULT NULL,
+  `WLAN_controller_model` varchar(511) DEFAULT NULL,
+  `Market_positioning` varchar(511) DEFAULT NULL,
+  `Intel_Rapid_Storage_Technology` varchar(511) DEFAULT NULL,
+  `Recovery_operating_system` varchar(511) DEFAULT NULL,
+  `Builtin_subwoofer` varchar(511) DEFAULT NULL,
+  `Front_camera_resolution` varchar(511) DEFAULT NULL,
+  `Touch_technology` varchar(511) DEFAULT NULL,
+  `Graphics_adapter_Open_GL_support` varchar(511) DEFAULT NULL,
+  `Certification` varchar(511) DEFAULT NULL,
+  `Number_of_discrete_graphics_adapters_installed` varchar(511) DEFAULT NULL,
+  `Auto_focus` varchar(255) DEFAULT NULL,
+  `WWAN` varchar(255) DEFAULT NULL,
+  `Intel_Builtin_Visuals_Technology` varchar(255) DEFAULT NULL,
+  `Intel_Smart_Connect_Technology` varchar(255) DEFAULT NULL,
+  `HP_speaker_type` varchar(511) DEFAULT NULL,
+  `Cable_lock_slot_type` varchar(511) DEFAULT NULL,
+  `ECC` varchar(255) DEFAULT NULL,
+  `HP_Management_tools` varchar(511) DEFAULT NULL,
+  `Electronic_compass` varchar(1) DEFAULT NULL,
+  `ExpressCard_slot` varchar(1) DEFAULT NULL,
+  `Intel_FDI_Technology` varchar(1) DEFAULT NULL,
+  `Accelerometer` varchar(1) DEFAULT NULL,
+  `Stylus_pen` varchar(1) DEFAULT NULL,
+  `Number_of_microphones` varchar(255) DEFAULT NULL,
+  `SPDIF_out_port` varchar(1) DEFAULT NULL,
+  `Firewire_IEEE_1394_ports` varchar(30) DEFAULT NULL,
+  `Audio_decoders` varchar(19) DEFAULT NULL,
+  `HP_Software_provided` varchar(289) DEFAULT NULL,
+  `SIM_card_support` varchar(1) DEFAULT NULL,
+  `Ambient_light_sensor` varchar(1) DEFAULT NULL,
+  `HP_Security_tools` varchar(179) DEFAULT NULL,
+  `HP_JumpStart` varchar(1) DEFAULT NULL,
+  `Screen_shape` varchar(4) DEFAULT NULL,
+  `Intel_HD_Graphics` varchar(1) DEFAULT NULL,
+  `Drivers_included` varchar(1) DEFAULT NULL,
+  `Hard_drive_capacity` varchar(7) DEFAULT NULL,
+  `Display_brightness` varchar(9) DEFAULT NULL,
+  `Intel_segment_tagging` varchar(27) DEFAULT NULL,
+  `Speakers_manufacturer` varchar(14) DEFAULT NULL,
+  `3D` varchar(1) DEFAULT NULL,
+  `SmartCard_slot` varchar(1) DEFAULT NULL,
+  `Hard_drive_speed` varchar(8) DEFAULT NULL,
+  `Warranty_card` varchar(1) DEFAULT NULL,
+  `Discrete_graphics_memory_type` varchar(5) DEFAULT NULL,
+  `Power_cord_included` varchar(1) DEFAULT NULL,
+  `Intel_Stable_Image_Platform_Program_SIPP_version` varchar(127) DEFAULT NULL,
+  `Intel_Smart_Response_Technology_version` varchar(255) DEFAULT NULL,
+  `Intel_Small_Business_Advantage_SBA_version` varchar(127) DEFAULT NULL,
+  `Intel_TSXNI_version` varchar(127) DEFAULT NULL,
+  `AC_adapter_frequency` varchar(5) DEFAULT NULL,
+  `Battery_life_max` varchar(7) DEFAULT NULL,
+  `USB_SleepandCharge_ports` varchar(255) DEFAULT NULL,
+  `USB_SleepandCharge` varchar(1) DEFAULT NULL,
+  `Islandstyle_keyboard` varchar(1) DEFAULT NULL,
+  `Contrast_ratio_typical` varchar(6) DEFAULT NULL,
+  `Fullsize_keyboard` varchar(1) DEFAULT NULL,
+  `Maximum_internal_memory_64bit` varchar(5) DEFAULT NULL,
+  `Hard_drive_interface` varchar(8) DEFAULT NULL,
+  `Audio_system` varchar(21) DEFAULT NULL,
+  `LightScribe` varchar(1) DEFAULT NULL,
+  `Housing_material` varchar(56) DEFAULT NULL,
+  `Front_camera_HD_type` varchar(2) DEFAULT NULL,
+  `Audio_chip` varchar(16) DEFAULT NULL,
+  `SSD_form_factor` varchar(4) DEFAULT NULL,
+  `Microphone_in` varchar(1) DEFAULT NULL,
+  `AC_adapter_input_voltage` varchar(9) DEFAULT NULL,
+  `Quick_start_guide` varchar(1) DEFAULT NULL,
+  `Motherboard_chipset` varchar(12) DEFAULT NULL,
+  `Near_Field_Communication_NFC` varchar(1) DEFAULT NULL,
+  `Height_front` varchar(7) DEFAULT NULL,
+  `Configurable_TDPdown` varchar(5) DEFAULT NULL,
+  `Height_rear` varchar(7) DEFAULT NULL,
+  `Intel_Dual_Display_Capable_Technology` varchar(1) DEFAULT NULL,
+  `Intel_Fast_Memory_Access` varchar(1) DEFAULT NULL,
+  `eSATA_ports_quantity` varchar(30) DEFAULT NULL,
+  `Preinstalled_software` varchar(30) DEFAULT NULL,
+  `Maximum_resolution` varchar(18) DEFAULT NULL,
+  `WiFi_certified` varchar(1) DEFAULT NULL,
+  `eSATAUSB_20_ports_quantity` varchar(30) DEFAULT NULL,
+  `Weight_tablet_mode` varchar(7) DEFAULT NULL,
+  `Power_autosensing` varchar(1) DEFAULT NULL,
+  `eSATAUSB_30_ports_quantity` varchar(511) DEFAULT NULL,
+  `Bundled_software` varchar(15) DEFAULT NULL,
+  `Serial_ports_quantity` varchar(127) DEFAULT NULL,
+  `Nonoperating_shock` varchar(4) DEFAULT NULL,
+  `Operating_shock` varchar(4) DEFAULT NULL,
+  `Nonoperating_altitude` varchar(13) DEFAULT NULL,
+  `Nonoperating_vibration` varchar(3) DEFAULT NULL,
+  `Operating_vibration` varchar(5) DEFAULT NULL,
+  `Battery_capacity` varchar(8) DEFAULT NULL,
+  `HP_Sure_Connect` varchar(1) DEFAULT NULL,
+  `Trial_software` varchar(17) DEFAULT NULL,
+  `Height_tablet_mode` varchar(7) DEFAULT NULL,
+  `Depth_tablet_mode` varchar(7) DEFAULT NULL,
+  `HP_Audio_Boost` varchar(1) DEFAULT NULL,
+  `Intel_Memory_Protection_Extensions_Intel_MPX` varchar(1) DEFAULT NULL,
+  `Hard_drive_2_capacity` varchar(6) DEFAULT NULL,
+  `HP_Audio_Switch` varchar(1) DEFAULT NULL,
+  `HP_CoolSense` varchar(1) DEFAULT NULL,
+  `Quick_charge_time_90` varchar(6) DEFAULT NULL,
+  `HP_Imagepad` varchar(1) DEFAULT NULL,
+  `HP_Orbit` varchar(1) DEFAULT NULL,
+  `Intel_Secure_Boot` varchar(1) DEFAULT NULL,
+  `Flash_drive_interface` varchar(30) DEFAULT NULL,
+  `Display_glass_type` varchar(13) DEFAULT NULL,
+  `Colour_name` varchar(5) DEFAULT NULL,
+  `Width_tablet_mode` varchar(7) DEFAULT NULL,
+  `Windows_Hello` varchar(1) DEFAULT NULL,
+  `MicroUSB_20_ports_quantity` varchar(30) DEFAULT NULL,
+  `MicroUSB_30_ports_quantity` varchar(30) DEFAULT NULL,
+  `4G_standard` varchar(30) DEFAULT NULL,
+  `Mini_DisplayPortThunderbolt_combo_port` varchar(1) DEFAULT NULL,
+  `AC_adapter_output_current` varchar(6) DEFAULT NULL,
+  `Operating_altitude` varchar(12) DEFAULT NULL,
+  `UART` varchar(1) DEFAULT NULL,
+  `Scenario_Design_Power_SDP` varchar(3) DEFAULT NULL,
+  `Intel_High_Definition_Audio_Intel_HD_Audio` varchar(1) DEFAULT NULL,
+  `Onboard_graphics_adapter_burst_frequency` varchar(511) DEFAULT NULL,
+  `Number_of_execution_units` varchar(255) DEFAULT NULL,
+  `HP_Support_Assistant` varchar(1) DEFAULT NULL,
+  `HP_front_camera` varchar(17) DEFAULT NULL,
+  `Intel_Optane_Memory_Ready` varchar(1) DEFAULT NULL,
+  `CardBus_PCMCIA_slot_type` varchar(1) DEFAULT NULL,
+  `CardBus_PCMCIA_slots_quantity` varchar(30) DEFAULT NULL,
+  `USB_TypeC_DisplayPort_Alternate_Mode` varchar(1) DEFAULT NULL,
+  `Intel_Demand_Based_Switching` varchar(1) DEFAULT NULL,
+  `FSB_Parity` varchar(1) DEFAULT NULL,
+  `HP_Smart_AC_Adapter` varchar(1) DEFAULT NULL,
+  `AC_adapter_output_voltage` varchar(255) DEFAULT NULL,
+  `Number_of_discrete_graphics_adapters_supported` varchar(127) DEFAULT NULL,
+  `HP_ePrint` varchar(1) DEFAULT NULL,
+  `Hard_drive_size` varchar(4) DEFAULT NULL,
+  `HP_Recovery_Manager` varchar(1) DEFAULT NULL,
+  `Operating_relative_humidity_HH` varchar(8) DEFAULT NULL,
+  `Swivel_webcam` varchar(1) DEFAULT NULL,
+  `TV_tuner_integrated` varchar(1) DEFAULT NULL,
+  `Cables_included` varchar(2) DEFAULT NULL,
+  `Flash_memory` varchar(6) DEFAULT NULL,
+  `Rear_camera` varchar(1) DEFAULT NULL,
+  `Onoff_button` varchar(1) DEFAULT NULL,
+  `Onboard_graphics_adapter_4K_support` varchar(1) DEFAULT NULL,
+  `Front_camera_resolution_numeric` varchar(4) DEFAULT NULL,
+  `Storage_relative_humidity_HH` varchar(8) DEFAULT NULL,
+  `Keyboard_number_of_keys` varchar(30) DEFAULT NULL,
+  `GPS_satellite` varchar(1) DEFAULT NULL,
+  `Operating_temperature_TT` varchar(9) DEFAULT NULL,
+  `Storage_temperature_TT` varchar(11) DEFAULT NULL,
+  `Quick_charge` varchar(1) DEFAULT NULL,
+  `Optional_operating_system_supplied` varchar(14) DEFAULT NULL,
+  `Infrared_IR_camera` varchar(1) DEFAULT NULL,
+  `Gyroscope` varchar(1) DEFAULT NULL,
+  `Intel_Secure_Key_Technology_version` varchar(127) DEFAULT NULL,
+  `Number_of_hard_drives_installed` varchar(128) DEFAULT NULL,
+  `Intel_Clear_Video_Technology` varchar(1) DEFAULT NULL,
+  `Maximum_number_of_PCI_Express_lanes` varchar(511) DEFAULT NULL,
+  `Onboard_graphics_adapter_ID` varchar(511) DEFAULT NULL,
+  `ECC_supported_by_processor` varchar(1) DEFAULT NULL,
+  `Maximum_onboard_graphics_adapter_memory` varchar(7) DEFAULT NULL,
+  `Processor_ARK_ID` varchar(511) DEFAULT NULL,
+  `Processor_package_size` varchar(7) DEFAULT NULL,
+  `Number_of_displays_supported_onboard_graphics` varchar(511) DEFAULT NULL,
+  `Processor_codename` varchar(11) DEFAULT NULL,
+  `Intel_Virtualization_Technology_for_Directed_IO_VTd` varchar(1) DEFAULT NULL,
+  `Intel_VTx_with_Extended_Page_Tables_EPT` varchar(1) DEFAULT NULL,
+  `Tjunction` varchar(6) DEFAULT NULL,
+  `Intel_CVT_for_MID` varchar(1) DEFAULT NULL,
+  `Embedded_options_available` varchar(1) DEFAULT NULL,
+  `PCI_Express_configurations` varchar(19) DEFAULT NULL,
+  `Intel_OS_Guard` varchar(1) DEFAULT NULL,
+  `Intel_64` varchar(1) DEFAULT NULL,
+  `Thermal_Design_Power_TDP` varchar(5) DEFAULT NULL,
+  `HDMI_ports_quantity` varchar(255) DEFAULT NULL,
+  `Weight` varchar(7) DEFAULT NULL,
+  `Bus_type` varchar(4) DEFAULT NULL,
+  `Onboard_graphics_adapter_dynamic_frequency_max` varchar(8) DEFAULT NULL,
+  `Intel_Flex_Memory_Access` varchar(1) DEFAULT NULL,
+  `Intel_Software_Guard_Extensions_Intel_SGX` varchar(1) DEFAULT NULL,
+  `Onboard_graphics_adapter_OpenGL_version` varchar(511) DEFAULT NULL,
+  `Front_camera` varchar(1) DEFAULT NULL,
+  `Conflict_Free_processor` varchar(1) DEFAULT NULL,
+  `Supported_instruction_sets` varchar(21) DEFAULT NULL,
+  `Intel_My_WiFi_Technology_Intel_MWT` varchar(1) DEFAULT NULL,
+  `Idle_States` varchar(1) DEFAULT NULL,
+  `Battery_technology` varchar(22) DEFAULT NULL,
+  `Intel_Virtualization_Technology_VTx` varchar(1) DEFAULT NULL,
+  `Onboard_graphics_adapter` varchar(1) DEFAULT NULL,
+  `Combo_headphonemic_port` varchar(1) DEFAULT NULL,
+  `Ethernet_LAN` varchar(1) DEFAULT NULL,
+  `Card_reader_integrated` varchar(1) DEFAULT NULL,
+  `Processor_boost_frequency` varchar(8) DEFAULT NULL,
+  `Memory_clock_speed` varchar(8) DEFAULT NULL,
+  `Intel_Enhanced_Halt_State` varchar(1) DEFAULT NULL,
+  `CPU_configuration_max` varchar(127) DEFAULT NULL,
+  `Touchscreen` varchar(1) DEFAULT NULL,
+  `Operating_system_installed` varchar(25) DEFAULT NULL,
+  `Processor_family` varchar(23) DEFAULT NULL,
+  `Processor_cores` varchar(511) DEFAULT NULL,
+  `Onboard_graphics_adapter_model` varchar(511) DEFAULT NULL,
+  `Display_resolution` varchar(18) DEFAULT NULL,
+  `Internal_memory_type` varchar(12) DEFAULT NULL,
+  `Processor_frequency` varchar(8) DEFAULT NULL,
+  `Processor_model` varchar(12) DEFAULT NULL,
+  `USB_30_31_Gen_1_TypeA_ports_quantity` varchar(511) DEFAULT NULL,
+  `Width` varchar(8) DEFAULT NULL,
+  `Numeric_keypad` varchar(1) DEFAULT NULL,
+  `Display_diagonal` varchar(15) DEFAULT NULL,
+  `Depth` varchar(8) DEFAULT NULL,
+  `Colour_of_product` varchar(15) DEFAULT NULL,
+  `Product_type` varchar(18) DEFAULT NULL,
+  `Internal_memory` varchar(5) DEFAULT NULL,
+  `Total_storage_capacity` varchar(7) DEFAULT NULL,
+  `LED_backlight` varchar(1) DEFAULT NULL,
+  `Processor_cache` varchar(5) DEFAULT NULL,
+  `Intel_AES_New_Instructions_Intel_AESNI` varchar(1) DEFAULT NULL,
+  `Intel_Clear_Video_HD_Technology_Intel_CVT_HD` varchar(1) DEFAULT NULL,
+  `Intel_Quick_Sync_Video_Technology` varchar(1) DEFAULT NULL,
+  `Enhanced_Intel_SpeedStep_Technology` varchar(1) DEFAULT NULL,
+  `Execute_Disable_Bit` varchar(1) DEFAULT NULL,
+  `Onboard_graphics_adapter_base_frequency` varchar(7) DEFAULT NULL,
+  `Intel_Trusted_Execution_Technology` varchar(1) DEFAULT NULL,
+  `Thermal_Monitoring_Technologies` varchar(1) DEFAULT NULL,
+  `Intel_Turbo_Boost_Technology` varchar(1) DEFAULT NULL,
+  `Intel_Hyper_Threading_Technology_Intel_HT_Technology` varchar(1) DEFAULT NULL,
+  `Aspect_ratio` varchar(4) DEFAULT NULL,
+  `Optical_drive_type` varchar(18) DEFAULT NULL,
+  `Storage_media` varchar(7) DEFAULT NULL,
+  `Processor_lithography` varchar(5) DEFAULT NULL,
+  `Processor_threads` varchar(511) DEFAULT NULL,
+  `Processor_operating_modes` varchar(14) DEFAULT NULL,
+  `PCI_Express_slots_version` varchar(511) DEFAULT NULL,
+  `4G` varchar(1) DEFAULT NULL,
+  `Discrete_graphics_adapter` varchar(1) DEFAULT NULL,
+  `Intel_Wireless_Display_Intel_WiDi` varchar(1) DEFAULT NULL,
+  `Cable_lock_slot` varchar(1) DEFAULT NULL,
+  `Thunderbolt_3_ports_quantity` varchar(127) DEFAULT NULL,
+  `Graphics_IMC_lithography` varchar(5) DEFAULT NULL,
+  `Intel_Identity_Protection_Technology_Intel_IPT` varchar(1) DEFAULT NULL,
+  `Onboard_graphics_adapter_family` varchar(19) DEFAULT NULL,
+  `Panel_type` varchar(3) DEFAULT NULL,
+  `Processor_series` varchar(42) DEFAULT NULL,
+  `AC_adapter_included` varchar(1) DEFAULT NULL,
+  `Keyboard_backlit` varchar(1) DEFAULT NULL,
+  `VGA_DSub_ports_quantity` varchar(255) DEFAULT NULL,
+  `Docking_connector` varchar(1) DEFAULT NULL,
+  `Ethernet_LAN_data_rates` varchar(18) DEFAULT NULL,
+  `Spill_resistant_keyboard` varchar(1) DEFAULT NULL,
+  `Thunderbolt_ports_quantity` varchar(127) DEFAULT NULL,
+  `USB_30_31_Gen_1_TypeC_ports_quantity` varchar(511) DEFAULT NULL,
+  `DVI_port` varchar(1) DEFAULT NULL,
+  `Configurable_TDPdown_frequency` varchar(7) DEFAULT NULL,
+  `USB_31_31_Gen_2_TypeC_ports_quantity` varchar(127) DEFAULT NULL,
+  `Intel_Small_Business_Advantage_Intel_SBA` varchar(1) DEFAULT NULL,
+  `Discrete_graphics_adapter_memory` varchar(4) DEFAULT NULL,
+  `Speaker_power` varchar(5) DEFAULT NULL,
+  `Intel_Smart_Cache` varchar(1) DEFAULT NULL,
+  `Manual` varchar(1) DEFAULT NULL,
+  `RoHS_compliance` varchar(1) DEFAULT NULL,
+  `Headphone_outputs` varchar(127) DEFAULT NULL,
+  `Solidstate_drive_interface` varchar(15) DEFAULT NULL,
+  `Intel_vPro_Technology` varchar(1) DEFAULT NULL,
+  `EPEAT_compliance` varchar(6) DEFAULT NULL,
+  `Display_surface` varchar(5) DEFAULT NULL,
+  `Password_protection_type` varchar(25) DEFAULT NULL,
+  `HDMI_version` varchar(4) DEFAULT NULL,
+  `Password_protection` varchar(1) DEFAULT NULL,
+  `Intel_Insider` varchar(1) DEFAULT NULL,
+  `Fingerprint_reader` varchar(1) DEFAULT NULL,
+  `Windows_keys` varchar(1) DEFAULT NULL,
+  `Front_camera_signal_format` varchar(4) DEFAULT NULL,
+  `USB_31_31_Gen_2_TypeA_ports_quantity` varchar(127) DEFAULT NULL,
+  `Memory_layout_slots_x_size` varchar(13) DEFAULT NULL,
+  `Number_of_SSDs_installed` varchar(127) DEFAULT NULL,
+  `Compatible_memory_cards` varchar(42) DEFAULT NULL,
+  `Intel_InTru_3D_Technology` varchar(1) DEFAULT NULL,
+  `Maximum_internal_memory` varchar(5) DEFAULT NULL,
+  `Processor_socket` varchar(20) DEFAULT NULL,
+  `WiFi` varchar(1) DEFAULT NULL,
+  `Processor_cache_type` varchar(11) DEFAULT NULL,
+  `DisplayPorts_quantity` varchar(127) DEFAULT NULL,
+  `Bluetooth` varchar(1) DEFAULT NULL,
+  `Pointing_device` varchar(25) DEFAULT NULL,
+  `AC_adapter_power` varchar(5) DEFAULT NULL,
+  `HD_type` varchar(12) DEFAULT NULL,
+  `Discrete_graphics_adapter_model` varchar(23) DEFAULT NULL,
+  `Operating_system_architecture` varchar(6) DEFAULT NULL,
+  `Ethernet_LAN_RJ45_ports` varchar(127) DEFAULT NULL,
+  `3G` varchar(1) DEFAULT NULL,
+  `Intel_Secure_Key` varchar(1) DEFAULT NULL,
+  `System_bus_rate` varchar(6) DEFAULT NULL,
+  `USB_20_ports_quantity` varchar(127) DEFAULT NULL,
+  `WiFi_standards` varchar(65) DEFAULT NULL,
+  `Intel_Smart_Response_Technology` varchar(1) DEFAULT NULL,
+  `Solidstate_drive_capacity` varchar(7) DEFAULT NULL,
+  `Trusted_Platform_Module_TPM` varchar(1) DEFAULT NULL,
+  `Bluetooth_version` varchar(127) DEFAULT NULL,
+  `Processor_code` varchar(7) DEFAULT NULL,
+  `Intel_Stable_Image_Platform_Program_SIPP` varchar(1) DEFAULT NULL,
+  `DCin_jack` varchar(1) DEFAULT NULL,
+  `Builtin_microphone` varchar(1) DEFAULT NULL,
+  `Memory_slots` varchar(10) DEFAULT NULL,
+  `Memory_form_factor` varchar(18) DEFAULT NULL,
+  `Height` varchar(7) DEFAULT NULL,
+  `Intel_TSXNI` varchar(1) DEFAULT NULL,
+  `Energy_Star_certified` varchar(1) DEFAULT NULL,
+  `Onboard_graphics_adapter_DirectX_version` varchar(511) DEFAULT NULL,
+  `Number_of_battery_cells` varchar(3) DEFAULT NULL,
+  `Stepping` varchar(2) DEFAULT NULL,
+  `Number_of_builtin_speakers` varchar(255) DEFAULT NULL,
+  `Battery_capacity_Watt_hours` varchar(8) DEFAULT NULL,
+  `Form_factor` varchar(24) DEFAULT NULL,
+  PRIMARY KEY (`id`)
 );
