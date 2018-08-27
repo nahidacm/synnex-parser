@@ -12,7 +12,7 @@ SELECT ff.SYNNEX_SKU_number,ff.Manufacturer_Part_number,
 from flat_file as ff
 LEFT JOIN inv_report_without_0_qty as inv
          on ff.SYNNEX_SKU_number = inv.SYNNEX_SKU_number
-where inv.SYNNEX_CAT_Code in (002057659,002057660,002057661) and ff.Promotion_Flag = 'Y'
+where inv.SYNNEX_CAT_Code in (002057659,002057660,002057661,002057240) and ff.Promotion_Flag = 'Y'
   /*and inv.Qty_on_Hand_Total > 5 and ff.SYNNEX_SKU_number = '5306796'*/
     /*and ff.UPC_Code <> ''*/
 /*HAVING Possible_Profit > 100*/
