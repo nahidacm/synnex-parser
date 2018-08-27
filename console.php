@@ -10,5 +10,7 @@ use Synnex\FlatFileFilter;
 $app = new Application();
 
 $app->add(new FlatFileFilter());
+$app->add(new \IceCat\IceCatImport());
+$app->add(new \IceCat\IceImage());
 
 $app->run();

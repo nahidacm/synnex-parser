@@ -15,3 +15,7 @@
 `LOAD DATA LOCAL INFILE '/var/www/synnex-app/87073_EN.csv' INTO TABLE icecat_data CHARACTER SET 'utf8' FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;`
 
 `SHOW WARNINGS;`
+
+**Image Downloader**
+
+`php ./console.php icecat:image:download  /var/www/synnex-app/icecat-images.csv /var/www/synnex-app/ice-images/`
