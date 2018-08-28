@@ -30,6 +30,10 @@ class IceImage extends Command{
                 $ProductGallery = $row_data[0];
                 $images = explode('|',$ProductGallery);
                 foreach ($images as $image_link){
+                    if(empty($image_link)){
+                        $output->writeln('Empty row. Skipped.'.$row++);
+                        continue;
+                    }
                     $output->writeln('Downloading: '.$image_link);
 
                     $split_image = pathinfo($image_link);
