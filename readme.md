@@ -6,6 +6,10 @@
 
 **Direct import app file**
 
+Add an empty column at the beginning of the file. That column represents auto increment id.
+ 
+ `truncate table flat_file;`
+ 
 `LOAD DATA LOCAL INFILE '/home/nhd/temp-files/synnex/523323.ap'  INTO TABLE flat_file  FIELDS TERMINATED BY '~'  ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;`
 
 **IceCat file import**
@@ -19,3 +23,16 @@
 **Image Downloader**
 
 `php ./console.php icecat:image:download  /var/www/synnex-app/icecat-images.csv /var/www/synnex-app/ice-images/`
+
+
+**Direct import Amazon Stock file**
+
+Add an empty column at the beginning of the file. That column represents auto increment id.
+
+`LOAD DATA LOCAL INFILE '/home/nhd/Downloads/amazon-products.csv'  INTO TABLE amazon_products  FIELDS TERMINATED BY ','  ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;`
+
+**Direct import Synnex Stock file**
+
+`truncate table inv_report_without_0_qty;`
+
+`LOAD DATA LOCAL INFILE '/home/nhd/temp-files/synnex/stock/inv_report_without_0_qty.app'  INTO TABLE inv_report_without_0_qty  FIELDS TERMINATED BY '~'  ENCLOSED BY '"' LINES TERMINATED BY '\n';`
