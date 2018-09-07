@@ -12,4 +12,4 @@ SELECT concat(ff.Manufacturer_Part_number,'-',ic.Icecat_id) as sku,'Desktops' as
 from icecat_desktop as ic
        left join flat_file as ff on ic.Requested_prod_id = ff.Manufacturer_Part_number
        left join inv_report_without_0_qty as inv on ff.SYNNEX_SKU_number = inv.SYNNEX_SKU_number
-where ic.ErrorMessage = '';
+where ic.ErrorMessage = '' and ic.Processor_family <> '';

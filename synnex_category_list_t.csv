@@ -1,0 +1,1867 @@
+id,CatCode,Level1Description,Level2Description,Level3Description,UNSPSC
+1,CatCode,Level1Description,Level2Description,Level3Description,UNSPSC
+2,001,Accessories and Cables,"","",""
+3,002,Computers and Portables,"","",""
+4,003,Digital Cameras/Keyboards/Input Devices,"","",""
+5,005,Monitor / Display / Projector,"","",""
+6,006,Networking,"","",""
+7,007,Audio / Video / Output Devices,"","",""
+8,008,Power Equipment,"","",""
+9,009,Printers,"","",""
+10,010,Service / Support,"","",""
+11,011,Software,"","",""
+12,012,Storage Devices,"","",""
+13,013,Computer Components,"","",""
+14,014,Accessory,"","",""
+15,015,Bar Code Reader,"","",""
+16,016,Battery charger,"","",""
+17,017,Bridge / Router,"","",""
+18,018,Cabinets / Enclosures,"","",""
+19,019,Cables,"","",""
+20,020,Camera Lenses,"","",""
+21,021,Carrying Cases,"","",""
+22,022,Communication Device,"","",""
+23,023,Computer / Laptop Warranties,"","",""
+24,024,Computer Based Training,"","",""
+25,025,Creativity Application,"","",""
+26,026,Personal Computer,"","",""
+27,027,Digital Camera,"","",""
+28,028,Documentation Kit,"","",""
+29,029,Dot-matrix,"","",""
+30,030,DRAM - DIMM 168-pin Other,"","",""
+31,031,DRAM - DIMM 168-pin PC100,"","",""
+32,032,DRAM - DIMM 168-pin PC133,"","",""
+33,033,DRAM - Other,"","",""
+34,034,DRAM - RIMM 184-pin,"","",""
+35,035,DRAM - SIMM 72-pin,"","",""
+36,036,DRAM - SO DIMM 144-pin,"","",""
+37,037,Education Application,"","",""
+38,038,LCD Display,"","",""
+39,039,Game / Entertainment,"","",""
+40,040,Game Controller / Joy Stick,"","",""
+41,041,Handheld / PDA,"","",""
+42,042,Handheld / PDA Accessory,"","",""
+43,043,Hard Drive Fibre Channel,"","",""
+44,044,Hard Drive ATA / SATA <= 5400 RPM,"","",""
+45,045,Hard Drive ATA / SATA 7200+ RPM,"","",""
+46,046,Hard Drive Mobile 2.5 in.,"","",""
+47,047,Hard Drive Other,"","",""
+48,048,Hard Drive SCSI <= 7200 RPM,"","",""
+49,049,Hard Drive SCSI 10K RPM,"","",""
+50,050,Hard Drive SCSI 15K RPM,"","",""
+51,051,Home / Lifestyle Application,"","",""
+52,052,Hub / Switch,"","",""
+53,053,Ink-jet,"","",""
+54,054,Input Adapter,"","",""
+55,055,Internet Application,"","",""
+56,056,Keyboards,"","",""
+57,057,Laptop,"","",""
+58,058,Laser - B/W,"","",""
+59,059,Laser - Color,"","",""
+60,060,LCD / LED,"","",""
+61,061,Mainboard - AMD Chipset,"","",""
+62,062,Mainboard - Intel Chipset,"","",""
+63,063,Mainboard - Other Chipset,"","",""
+64,064,Mainboard - VIA chipset,"","",""
+65,065,Memory - Other,"","",""
+66,066,Microphones - Audio Input,"","",""
+67,067,Modem / Communication,"","",""
+68,068,Network Accessory,"","",""
+69,069,Network Adapter,"","",""
+70,070,Network Cable,"","",""
+71,071,Network Device,"","",""
+72,072,Network Hardware Warranties,"","",""
+73,073,Network Management Tools,"","",""
+74,074,Network Storage,"","",""
+75,075,Operating System,"","",""
+76,076,Optical Miscellaneous,"","",""
+77,077,Other,"","",""
+78,078,Other Display,"","",""
+79,079,Other Equipment,"","",""
+80,080,Pointing Devices,"","",""
+81,081,Power Accessory,"","",""
+82,082,Power adapter,"","",""
+83,083,Power array,"","",""
+84,084,Power Cables,"","",""
+85,085,Power distribution unit,"","",""
+86,086,Power supply,"","",""
+87,087,Printer / Monitor Warranties,"","",""
+88,088,Printer Consumables,"","",""
+89,089,Processor / CPU Accessory,"","",""
+90,090,Processors,"","",""
+91,091,Productivity Applications,"","",""
+92,092,Programming Tools,"","",""
+93,093,Projector / Panel,"","",""
+94,094,Rack Systems and Parts,"","",""
+95,095,Reference / Data Source,"","",""
+96,096,Removable Disk Drive,"","",""
+97,097,Removable Media,"","",""
+98,098,Removable Tape Drive,"","",""
+99,099,Repeater / Transceiver,"","",""
+100,100,Scanner,"","",""
+101,101,Scanner Accessory,"","",""
+102,102,Security Accessory,"","",""
+103,103,Self-training Course,"","",""
+104,104,Software Suite,"","",""
+105,105,Software Support,"","",""
+106,106,Sound Cards,"","",""
+107,107,Speakers,"","",""
+108,108,CRT Display,"","",""
+109,109,Storage Accessory,"","",""
+110,110,Storage Adapters,"","",""
+111,111,Storage Device Warranties,"","",""
+112,112,Surge suppressor,"","",""
+113,113,System Accessory,"","",""
+114,114,System Cabinets,"","",""
+115,115,Thermal inkjet,"","",""
+116,116,Training Courses,"","",""
+117,117,Trays and Accessories,"","",""
+118,118,UPS,"","",""
+119,119,User Manual,"","",""
+120,120,Utilities,"","",""
+121,121,Video Graphic Cards,"","",""
+122,122,< 10 GB,"","",""
+123,123,< 15 inch,"","",""
+124,124,< 17 inch,"","",""
+125,125,< 20 GB,"","",""
+126,126,19 - 29 inch,"","",""
+127,127,10 GB to 29 GB,"","",""
+128,128,100+ GB,"","",""
+129,129,128MB,"","",""
+130,130,15 inch,"","",""
+131,131,16 - 19 inch,"","",""
+132,132,17 inch,"","",""
+133,133,19 inch,"","",""
+134,134,1GB,"","",""
+135,135,21 GB to 39 GB,"","",""
+136,136,256MB,"","",""
+137,137,30 GB to 49 GB,"","",""
+138,138,40 GB to 69 GB,"","",""
+139,139,50 GB to 69 GB,"","",""
+140,140,512MB,"","",""
+141,141,64MB,"","",""
+142,142,70 GB to 99 GB,"","",""
+143,143,70+ GB,"","",""
+144,144,"8mm Other (VXA, D8, Mammoth)","","",""
+145,145,Access / Login control,"","",""
+146,146,Accessories,"","",""
+147,147,Accessory,"","",""
+148,148,Accounting,"","",""
+149,149,8mm AIT / SAIT,"","",""
+150,150,Anti-Virus,"","",""
+151,151,Antivirus / PC diagnostic,"","",""
+152,152,Athlon,"","",""
+153,153,ATM,"","",""
+154,154,AV / multimedia,"","",""
+155,155,Backup / compression,"","",""
+156,156,Basic,"","",""
+157,157,C++,"","",""
+158,158,Cache Memory,"","",""
+159,159,CAD / CAM,"","",""
+160,160,CD-R,"","",""
+161,161,CD-ROM,"","",""
+162,162,CD-RW,"","",""
+163,163,"DVD (ROM, RW, CD Combo)","","",""
+164,164,Celeron,"","",""
+165,165,Commercial finance,"","",""
+166,166,Connectivity,"","",""
+167,167,Contact management,"","",""
+168,168,Control processor,"","",""
+169,169,Crash protection,"","",""
+170,170,4mm DDS / DAT,"","",""
+171,171,Data encryption,"","",""
+172,172,Data recovery,"","",""
+173,173,Data security,"","",""
+174,174,Database / connectivity,"","",""
+175,175,Database / reporting,"","",""
+176,176,Database Publishing,"","",""
+177,177,Desktop Publishing,"","",""
+178,178,DIMM 100-pin,"","",""
+179,179,DIMM 184-pin,"","",""
+180,180,Disk management,"","",""
+181,181,Display,"","",""
+182,182,DLP projector,"","",""
+183,183,DLT / Super DLT / VS,"","",""
+184,184,Docking station,"","",""
+185,185,Document management,"","",""
+186,186,DSL modem,"","",""
+187,187,DVD-RAM,"","",""
+188,188,DVD-ROM,"","",""
+189,189,e-Commerce,"","",""
+190,190,Email / FTP / Fax,"","",""
+191,191,Ethernet,"","",""
+192,192,Fast Ethernet,"","",""
+193,193,Fax / modem,"","",""
+194,194,Fiber optic,"","",""
+195,195,Fibre Channel,"","",""
+196,196,File / desktop management,"","",""
+197,197,File viewing / conversion,"","",""
+198,198,Firewall,"","",""
+199,200,FireWire,"","",""
+200,201,Flash Memory,"","",""
+201,202,Floppy,"","",""
+202,203,Floppy disk,"","",""
+203,204,Fonts,"","",""
+204,205,Fonts management,"","",""
+205,206,Gateway,"","",""
+206,207,Gateway server,"","",""
+207,208,Gigabit Ethernet,"","",""
+208,209,Graphics,"","",""
+209,210,Groupware,"","",""
+210,211,Hub,"","",""
+211,212,IDE / EIDE,"","",""
+212,213,Image Editing,"","",""
+213,214,Internet Security,"","",""
+214,215,Internet Utilities,"","",""
+215,216,JAVA,"","",""
+216,217,Keyboard,"","",""
+217,218,Keyboard / mouse,"","",""
+218,219,Keyboard / mouse / video,"","",""
+219,220,Large-format,"","",""
+220,221,LCD projector,"","",""
+221,222,Linux,"","",""
+222,223,Load balancing device,"","",""
+223,224,Magneto-Optical disk,"","",""
+224,225,Management Application,"","",""
+225,226,Memory Adapter,"","",""
+226,227,Modem,"","",""
+227,228,Modem ISDN / Cable / Digital,"","",""
+228,229,Modular expansion base,"","",""
+229,230,Monitoring,"","",""
+230,231,Multifunction,"","",""
+231,232,Multimedia Authoring,"","",""
+232,233,NetWare,"","",""
+233,234,Network,"","",""
+234,235,Network / modem combo,"","",""
+235,236,Network monitoring device,"","",""
+236,237,Network testing device,"","",""
+237,238,Office suite,"","",""
+238,239,Other,"","",""
+239,240,Other CPU,"","",""
+240,241,Paper,"","",""
+241,242,Parallel,"","",""
+242,243,Patch,"","",""
+243,244,PDA software,"","",""
+244,245,Pentium 4,"","",""
+245,246,Barebone,"","",""
+246,247,Pentium III,"","",""
+247,248,Pentium D,"","",""
+248,249,AMD Turion,"","",""
+249,250,Pentium Other,"","",""
+250,251,Performance management,"","",""
+251,252,Personal,"","",""
+252,253,Port replicator,"","",""
+253,254,Power,"","",""
+254,255,Presentation,"","",""
+255,256,Printer,"","",""
+256,257,Printer Cartridge - Ink-jet,"","",""
+257,258,Printer Cartridge - Laser Color,"","",""
+258,259,Printer Cartridge - Other,"","",""
+259,260,Printer drum kit,"","",""
+260,262,Printer management,"","",""
+261,263,Printer ribbon,"","",""
+262,265,Printer transparency film,"","",""
+263,266,Projects / process,"","",""
+264,267,Proxy server,"","",""
+265,268,QIC,"","",""
+266,269,RAD suites,"","",""
+267,270,RAID,"","",""
+268,271,Read-Only Memory,"","",""
+269,272,Remote access / control,"","",""
+270,273,Remote access server,"","",""
+271,274,Remote backup,"","",""
+272,275,Remote management,"","",""
+273,276,RIMM 168-pin,"","",""
+274,277,SCSI,"","",""
+275,278,SCSI external,"","",""
+276,279,SCSI internal,"","",""
+277,280,Serial,"","",""
+278,281,SLR / MLR,"","",""
+279,282,SO DIMM 72-pin,"","",""
+280,283,Spreadsheet,"","",""
+281,284,Storage management,"","",""
+282,285,Switch,"","",""
+283,286,System management,"","",""
+284,287,Terminal server,"","",""
+285,288,Time management,"","",""
+286,289,Token Ring,"","",""
+287,290,Travan,"","",""
+288,291,LTO Ultrium,"","",""
+289,292,USB,"","",""
+290,293,USB 2.0,"","",""
+291,294,Utilities,"","",""
+292,295,Utilities Suite,"","",""
+293,296,Video Editing,"","",""
+294,297,Video Memory,"","",""
+295,298,Voice interface card,"","",""
+296,299,Web applications,"","",""
+297,300,Web Design / Publishing,"","",""
+298,301,Web Graphic Tools,"","",""
+299,302,Web Server,"","",""
+300,303,Windows 2000,"","",""
+301,304,Windows NT,"","",""
+302,305,Windows Other,"","",""
+303,306,Windows XP,"","",""
+304,307,Access Point,"","",""
+305,308,Word processor,"","",""
+306,309,Workgroup,"","",""
+307,310,ZIP / JAZ Disk,"","",""
+308,311,To Be Determined,"","",""
+309,312,Check Description,"","",""
+310,313,No Category,"","",""
+311,314,Learning Resources,"","",""
+312,315,Terminal / Network Computer,"","",""
+313,316,Server,"","",""
+314,317,Workstation,"","",""
+315,318,Xeon,"","",""
+316,319,Processors - Mobile,"","",""
+317,320,Processors - Desktop,"","",""
+318,321,Processors - Server,"","",""
+319,322,Whitebox Base Kit,"","",""
+320,323,Install / Reconfig / Service Fees,"","",""
+321,324,Wireless Devices,"","",""
+322,325,PC Card,"","",""
+323,326,Desktop Card,"","",""
+324,327,Printer Servers,"","",""
+325,328,Internal,"","",""
+326,329,External,"","",""
+327,330,100 GB to 179 GB,"","",""
+328,331,180+ GB,"","",""
+329,332,"Large format, roll output media","","",""
+330,333,Inkjet cartridge and print head,"","",""
+331,334,Printer Cartridge - Laser Mono,"","",""
+332,335,Solid ink sticks,"","",""
+333,336,Printer drum-fuser-maintenance kit,"","",""
+334,337,Impact printer ribbon and print head,"","",""
+335,338,"Small format, cut sheet output media","","",""
+336,339,Compatible inkjet cartridge-print head,"","",""
+337,340,Color toner cartridge,"","",""
+338,341,Remanufactured inkjet cartridge,"","",""
+339,342,Compatible mono toner,"","",""
+340,343,Compatible solid ink sticks,"","",""
+341,344,Remanufactured mono toner,"","",""
+342,345,Compatible color toner,"","",""
+343,346,Remanufactured color toner,"","",""
+344,347,Windows 2003,"","",""
+345,348,Nonstock or Synnex Internal - No Cat Req,"","",""
+346,349,Digital Camera Accessory,"","",""
+347,350,Office Machines and Supplies,"","",""
+348,351,Paper/Labels/Transparencies/Plastic Card,"","",""
+349,352,EMJ Products,"","",""
+350,353,Supplies Products,"","",""
+351,354,Laser/Inkjet Labels,"","",""
+352,355,Office Paper/Labels,"","",""
+353,356,Photocopiers,"","",""
+354,357,Photocopier Supplies,"","",""
+355,358,Fax Machines,"","",""
+356,359,Fax Machine Supplies,"","",""
+357,360,General Office Supplies,"","",""
+358,361,Collection Bottles and Bags,"","",""
+359,362,"Developers, Starters, and Dispersants","","",""
+360,363,Drums,"","",""
+361,364,Duplicator Supplies,"","",""
+362,365,Fusers,"","",""
+363,366,Maintenance Kits,"","",""
+364,367,Staples,"","",""
+365,368,Toners,"","",""
+366,369,Toners,"","",""
+367,370,Developers,"","",""
+368,371,Drums,"","",""
+369,372,Thermal Transfer Ribbons and Rolls,"","",""
+370,373,Thermal Paper Rolls,"","",""
+371,374,Ring Binders/Report Covers/Access,"","",""
+372,375,Batteries,"","",""
+373,376,Bookkeeping Records,"","",""
+374,377,Books and Planners,"","",""
+375,378,Bulbs,"","",""
+376,379,Cleaning Supplies,"","",""
+377,380,Correction Supplies,"","",""
+378,381,Desktop Accessories,"","",""
+379,382,Drawing Supplies,"","",""
+380,383,Envelopes,"","",""
+381,384,Everyday Supplies,"","",""
+382,385,Filing Equipment,"","",""
+383,386,Forms,"","",""
+384,388,Glue,"","",""
+385,390,Mailroom Supplies,"","",""
+386,391,Office Tools,"","",""
+387,392,Office Tapes,"","",""
+388,393,Pencils/Mechanical,"","",""
+389,394,Post it Products,"","",""
+390,395,Markers/Highlighters,"","",""
+391,396,Pens,"","",""
+392,397,Security Systems,"","",""
+393,398,Small Office Supplies,"","",""
+394,399,Staplers,"","",""
+395,400,Shipping Supplies,"","",""
+396,401,Stamping Supplies,"","",""
+397,402,Storage Boxes & Carrying Cases,"","",""
+398,403,Tool Kits,"","",""
+399,404,Visual Supplies,"","",""
+400,405,Business Machines,"","",""
+401,406,Business Machine Supplies,"","",""
+402,407,POS/Banking/Calculator Supplies,"","",""
+403,408,Binding Machines,"","",""
+404,409,Calculators,"","",""
+405,410,Checkwriters,"","",""
+406,411,Collators,"","",""
+407,412,Label Makers,"","",""
+408,413,Laminators,"","",""
+409,414,Letter Folder,"","",""
+410,415,Laser Pointers,"","",""
+411,416,Shredders,"","",""
+412,417,Binding Mach Supplies,"","",""
+413,418,Label Maker Tapes and Accessories,"","",""
+414,419,Laminator Supplies,"","",""
+415,420,Ink Rolls,"","",""
+416,421,Paper Products,"","",""
+417,422,Ribbons,"","",""
+418,423,Audio/Video Products,"","",""
+419,424,Audio Tapes,"","",""
+420,425,Video Tapes,"","",""
+421,426,Overhead Projectors and Accessories,"","",""
+422,427,Portable Audio,"","",""
+423,428,Thermal,"","",""
+424,429,Label Printer/Maker,"","",""
+425,430,Personal Printer,"","",""
+426,431,POS Receipt Printer,"","",""
+427,432,Digital Photo Printer,"","",""
+428,433,Plastic Card Printer,"","",""
+429,434,Plastic Cards,"","",""
+430,435,Direct Thermal and Thermal Transfer Labe,"","",""
+431,436,Printer Cleaning Products,"","",""
+432,437,Thermal Transfer ribbon and print head,"","",""
+433,438,Apple MacOS,"","",""
+434,439,Apple MacOS Server,"","",""
+435,440,Cisco IOS,"","",""
+436,441,SCO,"","",""
+437,442,Unixware,"","",""
+438,443,Emulation,"","",""
+439,444,Hardware Optimizing,"","",""
+440,445,News Publishing Tools,"","",""
+441,446,PowerPC G4,"","",""
+442,447,Pentium M,"","",""
+443,448,PowerPC G5,"","",""
+444,449,Xeon MP,"","",""
+445,450,Memory,"","",""
+446,451,DRAM - DIMM 200-pin,"","",""
+447,453,Category no longer used,"","",""
+448,454,1/2 inch Enterprise,"","",""
+449,455,Optical,"","",""
+450,456,Tape Libraries / Autoloaders,"","",""
+451,457,8mm D8,"","",""
+452,458,8mm Mammoth,"","",""
+453,459,8mm VXA,"","",""
+454,460,8mm Other (357x),"","",""
+455,461,8mm AIT,"","",""
+456,462,Super AIT,"","",""
+457,463,DLT / VS,"","",""
+458,464,Super DLT,"","",""
+459,465,DVD R,"","",""
+460,466,DVD RW,"","",""
+461,467,DVD RAM,"","",""
+462,468,Other Tape Media,"","",""
+463,469,Other Disk Media,"","",""
+464,470,LTO Ultrium 1,"","",""
+465,471,LTO Ultrium 2,"","",""
+466,472,< 20 inch,"","",""
+467,473,36 - 45 inch,"","",""
+468,474,20 inch,"","",""
+469,475,27 inch,"","",""
+470,476,30 - 32 inch,"","",""
+471,477,Antenna Cable,"","",""
+472,478,Cable Accessory,"","",""
+473,479,Cable Clips,"","",""
+474,480,Cable Ties,"","",""
+475,481,CCTV Camera,"","",""
+476,482,CCTV Lenses,"","",""
+477,483,Connectors,"","",""
+478,484,Consumer Camcorder,"","",""
+479,485,CPU Coolers,"","",""
+480,486,DVD Recorder/Player,"","",""
+481,487,DVR/Digital Video Recorders,"","",""
+482,488,Fanguards,"","",""
+483,489,Fans,"","",""
+484,490,FireWire / IEEE1394,"","",""
+485,491,Imaging Camera,"","",""
+486,492,IP Security Camera,"","",""
+487,493,KVM 3 in 1 Cable,"","",""
+488,494,KVM Switch/Cable,"","",""
+489,495,Pro Video Lenses,"","",""
+490,496,Professional Camcorder,"","",""
+491,497,Rack Accessories,"","",""
+492,498,Racks,"","",""
+493,499,Security Storage,"","",""
+494,500,Shelves,"","",""
+495,501,Plasma/LCD/CRT TV,"","",""
+496,502,Time Lapse VCR,"","",""
+497,503,Video Camera / Accessory,"","",""
+498,504,Video Cassette Recorder,"","",""
+499,505,Video Player,"","",""
+500,506,> 45 inch,"","",""
+501,507,All-In-One PC/LCD,"","",""
+502,508,All-In-One PC/LCD TV,"","",""
+503,509,Intel Core Duo,"","",""
+504,510,Touch Screen,"","",""
+505,511,Capacitive,"","",""
+506,512,Resistive,"","",""
+507,513,POS Pole Display,"","",""
+508,514,Thermal and Thermal Transfer Printers,"","",""
+509,515,Printer Service Parts,"","",""
+510,516,DRAM DDR,"","",""
+511,517,DRAM DDR2,"","",""
+512,518,FB Dimms,"","",""
+513,519,Digital Media,"","",""
+514,520,2GB,"","",""
+515,521,> 2GB,"","",""
+516,522,< 1GB,"","",""
+517,523,USB Drives,"","",""
+518,524,SD/CF Cards,"","",""
+519,525,Media Readers,"","",""
+520,526,Other Flash Memory,"","",""
+521,527,iPod/MP3,"","",""
+522,528,Home Audio,"","",""
+523,529,Skins/Cases,"","",""
+524,530,Celeron M,"","",""
+525,531,IPOD/MP3/Audio players,"","",""
+526,532,Batteries,"","",""
+527,533,Digital Camera,"","",""
+528,534,Bundle with Printer,"","",""
+529,535,GPS Kits,"","",""
+530,536,GPS Navigation Devices,"","",""
+531,537,AV Product Support,"","",""
+532,538,Input Device Support,"","",""
+533,539,Headphones,"","",""
+534,540,Handheld Label Printer/Maker,"","",""
+535,541,MFG,"","",""
+536,542,Intel Core 2 Duo,"","",""
+537,543,Large-Format Floor Model,"","",""
+538,544,TV & Video,"","",""
+539,545,Home Audio,"","",""
+540,546,Portable Electronics,"","",""
+541,547,Projectors,"","",""
+542,548,Appliances,"","",""
+543,549,Photo,"","",""
+544,550,UCC/Mobility/Telecom,"","",""
+545,551,Digital Signage,"","",""
+546,552,Security,"","",""
+547,553,Gaming,"","",""
+548,554,LCD TV,"","",""
+549,555,Plasma TV,"","",""
+550,556,DVD Players/Recorders,"","",""
+551,557,TV Mounts,"","",""
+552,558,TV & Video Warranties,"","",""
+553,559,TV & Video Accessories,"","",""
+554,560,VCR,"","",""
+555,561,Home Speakers,"","",""
+556,562,Home Theatre in a Box,"","",""
+557,563,CD Players,"","",""
+558,564,Receivers,"","",""
+559,565,Shelf Stereo Systems,"","",""
+560,566,Clock Radios,"","",""
+561,567,Karaoke,"","",""
+562,568,Home Audio Warranties,"","",""
+563,569,Home Audio Accessories,"","",""
+564,570,MP3 Players,"","",""
+565,571,Headphone,"","",""
+566,572,GPS,"","",""
+567,573,Ipod Accessories,"","",""
+568,574,MP3 Accessories,"","",""
+569,575,Portable Audio,"","",""
+570,576,Portable DVD Players,"","",""
+571,577,Car Electronics,"","",""
+572,578,Satellite Radio,"","",""
+573,579,Portable Speakers,"","",""
+574,580,Portable Electronic Accessories,"","",""
+575,581,Car Electronic Accessories,"","",""
+576,582,Home Theatre projectors,"","",""
+577,583,Multi Media Projectors,"","",""
+578,584,Projector Screens,"","",""
+579,585,Projector Mounts,"","",""
+580,586,Projector Replacement Lamps,"","",""
+581,587,Projector Warranties,"","",""
+582,588,Projector Accessories,"","",""
+583,589,Freezers,"","",""
+584,590,Microwave,"","",""
+585,591,Refrigerator,"","",""
+586,592,Toaster/Oven,"","",""
+587,593,Water Cooler,"","",""
+588,594,Wine Cooler,"","",""
+589,595,Patio Heater,"","",""
+590,596,Fans,"","",""
+591,597,Thermo Pot,"","",""
+592,598,Cooker,"","",""
+593,599,Bread Maker,"","",""
+594,600,Vacuum,"","",""
+595,601,Iron,"","",""
+596,602,Massage Chair,"","",""
+597,603,Digital Cameras,"","",""
+598,604,Camcorders,"","",""
+599,605,Digital Photo Frames,"","",""
+600,606,Lenses,"","",""
+601,607,Photo Paper & Ink,"","",""
+602,608,Photo Warranties,"","",""
+603,609,Photo Accessories,"","",""
+604,610,Cordless Phones,"","",""
+605,611,Corded Phones,"","",""
+606,612,Cell Phones,"","",""
+607,613,VOIP Phones,"","",""
+608,614,2-Way radios,"","",""
+609,615,Phone Accessories,"","",""
+610,616,LCD Displays,"","",""
+611,617,Plasma Displays,"","",""
+612,618,Flat Panel Display Mounts,"","",""
+613,619,Digital Signage Video Components,"","",""
+614,620,Digital Signage Audio Components,"","",""
+615,621,Digital Signage Warranties,"","",""
+616,622,Security Cameras,"","",""
+617,623,Security Camera Lenses,"","",""
+618,624,Security Monitors,"","",""
+619,625,Digital Video Recorders,"","",""
+620,626,Camera Mounts / Housings,"","",""
+621,627,Security Accessories,"","",""
+622,628,Console Software,"","",""
+623,629,Gaming Systems,"","",""
+624,630,Gaming Accessories,"","",""
+625,631,CRT TV,"","",""
+626,632,PDA,"","",""
+627,633,Windows Vista,"","",""
+628,634,Keyboard & Mice Combo,"","",""
+629,635,Solid State Drive,"","",""
+630,636,AV Furniture,"","",""
+631,637,Combined AV Devices,"","",""
+632,638,Remote Control,"","",""
+633,639,Video/Audio splitter,"","",""
+634,640,Solid ink,"","",""
+635,641,Antenna,"","",""
+636,642,Concentrator/Multiplexer,"","",""
+637,643,DRAM DDR3,"","",""
+638,644,22 - 26 inch,"","",""
+639,645,LTO Ultrium 3,"","",""
+640,646,LTO Ultrium 4,"","",""
+641,647,Video Conferencing,"","",""
+642,648,Netbook,"","",""
+643,649,> 29 inch,"","",""
+644,650,Gaming Service,"","",""
+645,651,Specialty,"","",""
+646,652,Frontline,"","",""
+647,653,Value,"","",""
+648,654,Budget,"","",""
+649,655,Gaming Components,"","",""
+650,656,PC Software,"","",""
+651,657,Entertainment / Education,"","",""
+652,658,Productivity,"","",""
+653,659,Intel Core i3,"","",""
+654,660,Intel Core i5,"","",""
+655,661,Intel Core i7,"","",""
+656,662,Tablet Computer,"","",""
+657,663,Tablet Accessories,"","",""
+658,664,Thin Client,"","",""
+659,665,Mobile Thin Client,"","",""
+660,666,POS System,"","",""
+661,667,Cloud Application,"","",""
+662,668,Mouse,"","",""
+663,669,Stylus Pen,"","",""
+664,670,Whiteboard,"","",""
+665,671,Remote Presenter / Other,"","",""
+666,672,Media Converter,"","",""
+667,673,FTTx/Optical Demarcation,"","",""
+668,674,Unmanaged,"","",""
+669,675,SNMP Managed,"","",""
+670,676,Mode Converters,"","",""
+671,677,Chassis Platforms,"","",""
+672,678,Power over Ethernet,"","",""
+673,679,SFPs,"","",""
+674,680,Secure Storage,"","",""
+675,681,Clustering / High-availability,"","",""
+676,682,Pentium,"","",""
+677,683,PCI Express,"","",""
+678,684,Security Appliance,"","",""
+679,685,Labeling/Barcode software,"","",""
+680,686,Windows 7,"","",""
+681,687,Inventory Systems,"","",""
+682,688,CRM Software,"","",""
+683,689,Server Virtualization,"","",""
+684,690,Storage Virtualization,"","",""
+685,691,System Deployment and Migration,"","",""
+686,692,PAD Carrying Case,"","",""
+687,693,Laptop Cart,"","",""
+688,694,AMD E-Series,"","",""
+689,695,Opteron,"","",""
+690,696,Office Furniture,"","",""
+691,697,Webcam,"","",""
+692,698,Portable / Mobile Scanner,"","",""
+693,699,Desktop Scanner,"","",""
+694,700,Windows 8,"","",""
+695,701,27-29 inch,"","",""
+696,702,SDRAM DDR4,"","",""
+697,703,< 4GB,"","",""
+698,704,4GB,"","",""
+699,705,8GB,"","",""
+700,706,16GB,"","",""
+701,707,> 16GB,"","",""
+702,708,30 - 45 inch,"","",""
+703,709,46 inch or larger,"","",""
+704,710,Interactive Whiteboards,"","",""
+705,711,3D Printers,"","",""
+706,712,Industrial,"","",""
+707,713,Consumer,"","",""
+708,714,Consumables,"","",""
+709,715,Chromebooks,"","",""
+710,716,Wearable Devices,"","",""
+711,717,Fitness/Watch,"","",""
+712,718,Health,"","",""
+713,719,GPS Locator,"","",""
+714,720,Eyewear,"","",""
+715,721,Drones,"","",""
+716,722,Drones,"","",""
+717,723,Drone Accessory,"","",""
+718,724,Drones with Camera,"","",""
+719,725,Drones without Camera,"","",""
+720,726,Drone Cases & Backpacks,"","",""
+721,727,Drone Batteries & Chargers,"","",""
+722,728,Drone Gimbals,"","",""
+723,729,Drone Parts & Accessories,"","",""
+724,730,iPhone,"","",""
+725,731,Android Phones,"","",""
+726,732,Cell Phone Accessory,"","",""
+727,733,iPhone Cases,"","",""
+728,734,Android Cases,"","",""
+729,735,iPhone Cables,"","",""
+730,736,Android Cables,"","",""
+731,737,Phone Chargers,"","",""
+732,738,Motherboard Accessories,"","",""
+733,739,Bluetooth Headphones,"","",""
+734,740,Projector Accessories,"","",""
+735,741,Monitor Accessories,"","",""
+736,742,X86,"","",""
+737,743,Other Appliances,"","",""
+738,744,Single-function,"","",""
+739,745,LTO Ultrium 5,"","",""
+740,746,LTO Ultrium 6,"","",""
+741,747,LTO Ultrium 7,"","",""
+742,748,LTO Ultrium 8,"","",""
+743,749,LTO Ultrium 9,"","",""
+744,750,LTO Ultrium 10,"","",""
+745,751,Hardware UCC/Audio,"","",""
+746,752,Endpoints,"","",""
+747,753,Hardware UCC/Video,"","",""
+748,754,Software UCC/Audio,"","",""
+749,755,Software UCC/Video,"","",""
+750,756,Software Licensing/On Premise,"","",""
+751,757,Software Licensing/Cloud Hosted,"","",""
+752,758,Software Application,"","",""
+753,759,Collaboration,"","",""
+754,760,UCC/Professional Services,"","",""
+755,761,Tech Support,"","",""
+756,762,Training,"","",""
+757,763,Warranty/Maintenance,"","",""
+758,764,Installation/Deployment,"","",""
+759,765,Hardware Others,"","",""
+760,766,Solutions,"","",""
+761,767,Software Security,"","",""
+762,768,Email Security,"","",""
+763,769,Application,"","",""
+764,770,Web Security,"","",""
+765,771,Endpoint Security,"","",""
+766,772,Mobile Security,"","",""
+767,773,Identity Access & Management,"","",""
+768,774,Security Training / Awareness,"","",""
+769,775,Risk Management,"","",""
+770,776,Data Center,"","",""
+771,777,Network Subscription,"","",""
+772,778,Security/Service /Support,"","",""
+773,779,WCC TBD,"","",""
+774,780,WCC TBD,"","",""
+775,781,WCC TBD,"","",""
+776,782,Security Maintenance / Support,"","",""
+777,783,Security Technical,"","",""
+778,784,Cloud Security,"","",""
+779,785,Virtual Appliances,"","",""
+780,786,SaaS / Subscriptions,"","",""
+781,787,Managed Security Services,"","",""
+782,788,Optimization,"","",""
+783,789,Network Repeaters,"","",""
+784,790,Network Interface Cards,"","",""
+785,791,Test Solutions,"","",""
+786,792,Other Solutions,"","",""
+787,793,Network/Service/Support,"","",""
+788,794,Network Training,"","",""
+789,795,Network Maintenance / Support,"","",""
+790,796,Software Network,"","",""
+791,797,Management Tools,"","",""
+792,798,Subscription,"","",""
+793,799,Communication,"","",""
+794,800,Hardware Network Security,"","",""
+795,801,Accessories/Adapter,"","",""
+796,802,Wireless & IoT Security,"","",""
+797,803,Hosted,"","",""
+798,804,Cloud,"","",""
+799,805,SSD Client - 3.5 inch,"","",""
+800,806,SSD Client - 2.5 inch,"","",""
+801,807,SSD Client - Msata,"","",""
+802,808,SSD Client - M.2,"","",""
+803,809,SSD Client - Add In Card (AIC),"","",""
+804,810,SSD Client- External,"","",""
+805,811,SSD Client - Other,"","",""
+806,812,SSD Enterprise - 3.5 inch,"","",""
+807,813,SSD Enterprise - 2.5 inch/U.2,"","",""
+808,814,SSD Enterprise - M.2,"","",""
+809,815,SSD Enterprise - Add In Card (AIC),"","",""
+810,816,SSD Enterprise - EDSFF/ Ruler,"","",""
+811,817,SSD Enterprise - Other,"","",""
+812,818,<150GB,"","",""
+813,819,150GB - 300GB,"","",""
+814,820,301GB- 600GB,"","",""
+815,821,601GB - 1.2TB,"","",""
+816,822,1.3TB - 2.0TB,"","",""
+817,823,2.1TB - 5TB,"","",""
+818,824,5TB+,"","",""
+819,10539,Laptop,"","",""
+820,10540,Desktop,"","",""
+821,10541,Workstation,"","",""
+822,10542,Server,"","",""
+823,10543,Motherboard,"","",""
+824,10544,Monitor/Display,"","",""
+825,10545,Projector,"","",""
+826,10546,Printer,"","",""
+827,10547,PDA,"","",""
+828,10548,Terminal / Network Computer,"","",""
+829,10549,Barebones(Laptop),"","",""
+830,10550,Barebones(Desktop),"","",""
+831,10551,Barebones(Sever),"","",""
+832,10552,Memory,"","",""
+833,10553,Carrying Case,"","",""
+834,10554,Input Devices,"","",""
+835,10555,Dock Station/Port Replicator,"","",""
+836,10556,Power Devices,"","",""
+837,10557,Optical/Floppy Drives,"","",""
+838,10558,Networking/Communication,"","",""
+839,10559,Hub / Switch,"","",""
+840,10560,Cables,"","",""
+841,10561,System Accessories,"","",""
+842,10562,External Hard Drives,"","",""
+843,10563,Flash Memory,"","",""
+844,10564,Warranties,"","",""
+845,10565,Monitors,"","",""
+846,10566,Hard Drives,"","",""
+847,10567,Video Cards,"","",""
+848,10568,System Cabinets,"","",""
+849,10569,Speakers,"","",""
+850,10570,Sound Cards,"","",""
+851,10571,Processors,"","",""
+852,10572,Tape Drives,"","",""
+853,10573,Storage Controller,"","",""
+854,10574,Display Accessories,"","",""
+855,10575,Printer Accessories,"","",""
+856,10576,Printer Servers,"","",""
+857,10577,Printer Cables,"","",""
+858,10578,Printer supplies,"","",""
+859,10579,Paper/Media,"","",""
+860,10580,Handheld/PDA Accessory,"","",""
+861,10581,To Be Determined,"","",""
+862,10582,need Check,"","",""
+863,10583,Software,"","",""
+864,10584,Digital Cameras/Keyboards/Input Devices,"","",""
+865,10585,Audio / Video / Output Devices,"","",""
+866,10586,Batteries,"","",""
+867,10587,Lenses,"","",""
+868,10588,Digital Camera Accessory,"","",""
+869,10589,Headphones,"","",""
+870,10590,Audio Accessories,"","",""
+871,10591,Mainboard,"","",""
+872,10592,Integration,"","",""
+873,10593,Lamp,"","",""
+874,001019147,Accessories and Cables,Cables,Accessory,26121620
+875,001019239,Accessories and Cables,Cables,Other,26121620
+876,001019242,Accessories and Cables,Cables,Parallel,26121620
+877,001019280,Accessories and Cables,Cables,Serial,26121620
+878,001019292,Accessories and Cables,Cables,USB,26121620
+879,001019490,Accessories and Cables,Cables,FireWire / IEEE1394,26121620
+880,001076000,Accessories and Cables,Optical Miscellaneous,"",45121603
+881,001077000,Accessories and Cables,Other,"",43211600
+882,001094497,Accessories and Cables,Rack Systems and Parts,Rack Accessories,24102001
+883,001094498,Accessories and Cables,Rack Systems and Parts,Racks,24102001
+884,001094500,Accessories and Cables,Rack Systems and Parts,Shelves,24102001
+885,001102000,Accessories and Cables,Security Accessory,"",43222500
+886,001314028,Accessories and Cables,Learning Resources,Documentation Kit,43232502
+887,001314103,Accessories and Cables,Learning Resources,Self-training Course,43232502
+888,001314116,Accessories and Cables,Learning Resources,Training Courses,43232502
+889,001314119,Accessories and Cables,Learning Resources,User Manual,43232502
+890,001314239,Accessories and Cables,Learning Resources,Other,43232502
+891,001478479,Accessories and Cables,Cable Accessory,Cable Clips,39121702
+892,001478480,Accessories and Cables,Cable Accessory,Cable Ties,39121703
+893,002026152,Computers and Portables,Personal Computer,Athlon,43211508
+894,002026164,Computers and Portables,Personal Computer,Celeron,43211508
+895,002026240,Computers and Portables,Personal Computer,Other CPU,43211508
+896,002026245,Computers and Portables,Personal Computer,Pentium 4,43211508
+897,002026246,Computers and Portables,Personal Computer,Barebone,43211508
+898,002026247,Computers and Portables,Personal Computer,Pentium III,43211508
+899,002026248,Computers and Portables,Personal Computer,Pentium D,43211508
+900,002026446,Computers and Portables,Personal Computer,PowerPC G4,43211508
+901,002026448,Computers and Portables,Personal Computer,PowerPC G5,43211508
+902,002026542,Computers and Portables,Personal Computer,Intel Core 2 Duo,43211508
+903,002026659,Computers and Portables,Personal Computer,Intel Core i3,43211508
+904,002026660,Computers and Portables,Personal Computer,Intel Core i5,43211508
+905,002026661,Computers and Portables,Personal Computer,Intel Core i7,43211508
+906,002026682,Computers and Portables,Personal Computer,Pentium,43211508
+907,002026694,Computers and Portables,Personal Computer,AMD E-Series,43201503
+908,002041000,Computers and Portables,Handheld / PDA,"",43211504
+909,002042146,Computers and Portables,Handheld / PDA Accessory,Accessories,43211600
+910,002042535,Computers and Portables,Handheld / PDA Accessory,GPS Kits,52161518
+911,002042692,Computers and Portables,Handheld / PDA Accessory,PAD Carrying Case,43211619
+912,002057021,Computers and Portables,Laptop,Carrying Cases,53121706
+913,002057146,Computers and Portables,Laptop,Accessories,43211600
+914,002057152,Computers and Portables,Laptop,Athlon,43211503
+915,002057184,Computers and Portables,Laptop,Docking station,43211503
+916,002057240,Computers and Portables,Laptop,Other CPU,43211503
+917,002057245,Computers and Portables,Laptop,Pentium 4,43211503
+918,002057246,Computers and Portables,Laptop,Barebone,43211503
+919,002057247,Computers and Portables,Laptop,Pentium III,43211503
+920,002057249,Computers and Portables,Laptop,AMD Turion,43211503
+921,002057253,Computers and Portables,Laptop,Port replicator,43211503
+922,002057446,Computers and Portables,Laptop,PowerPC G4,43211503
+923,002057447,Computers and Portables,Laptop,Pentium M,43211503
+924,002057448,Computers and Portables,Laptop,PowerPC G5,43211503
+925,002057509,Computers and Portables,Laptop,Intel Core Duo,43211503
+926,002057530,Computers and Portables,Laptop,Celeron M,43211503
+927,002057542,Computers and Portables,Laptop,Intel Core 2 Duo,43211503
+928,002057659,Computers and Portables,Laptop,Intel Core i3,43211503
+929,002057660,Computers and Portables,Laptop,Intel Core i5,43211503
+930,002057661,Computers and Portables,Laptop,Intel Core i7,43211503
+931,002057682,Computers and Portables,Laptop,Pentium,43211503
+932,002057693,Computers and Portables,Laptop,Laptop Cart,44102902
+933,002057694,Computers and Portables,Laptop,AMD E-Series,43201503
+934,002113000,Computers and Portables,System Accessory,"",43211600
+935,002315000,Computers and Portables,Terminal / Network Computer,"",43211505
+936,002315239,Computers and Portables,Terminal / Network Computer,Other,43211506
+937,002315664,Computers and Portables,Terminal / Network Computer,Thin Client,43211506
+938,002315665,Computers and Portables,Terminal / Network Computer,Mobile Thin Client,43211506
+939,002315666,Computers and Portables,Terminal / Network Computer,POS System,43211505
+940,002316240,Computers and Portables,Server,Other CPU,43211502
+941,002316245,Computers and Portables,Server,Pentium 4,43211502
+942,002316246,Computers and Portables,Server,Barebone,43211502
+943,002316248,Computers and Portables,Server,Pentium D,43211502
+944,002316318,Computers and Portables,Server,Xeon,43211502
+945,002316448,Computers and Portables,Server,PowerPC G5,43211502
+946,002316659,Computers and Portables,Server,Intel Core i3,43211501
+947,002316660,Computers and Portables,Server,Intel Core i5,43211501
+948,002316661,Computers and Portables,Server,Intel Core i7,43211501
+949,002316695,Computers and Portables,Server,Opteron,43201503
+950,002316742,Computers and Portables,Server,X86,43211502
+951,002317240,Computers and Portables,Workstation,Other CPU,43201503
+952,002317245,Computers and Portables,Workstation,Pentium 4,43201503
+953,002317248,Computers and Portables,Workstation,Pentium D,43201503
+954,002317318,Computers and Portables,Workstation,Xeon,43201503
+955,002317659,Computers and Portables,Workstation,Intel Core i3,43211515
+956,002317660,Computers and Portables,Workstation,Intel Core i5,43211515
+957,002317661,Computers and Portables,Workstation,Intel Core i7,43211515
+958,002507240,Computers and Portables,All-In-One PC/LCD,Other CPU,43201503
+959,002507245,Computers and Portables,All-In-One PC/LCD,Pentium 4,43211508
+960,002507246,Computers and Portables,All-In-One PC/LCD,Barebone,43211520
+961,002507448,Computers and Portables,All-In-One PC/LCD,PowerPC G5,43211508
+962,002507509,Computers and Portables,All-In-One PC/LCD,Intel Core Duo,43211508
+963,002507542,Computers and Portables,All-In-One PC/LCD,Intel Core 2 Duo,43211508
+964,002507659,Computers and Portables,All-In-One PC/LCD,Intel Core i3,43211508
+965,002507660,Computers and Portables,All-In-One PC/LCD,Intel Core i5,43211508
+966,002507661,Computers and Portables,All-In-One PC/LCD,Intel Core i7,43211508
+967,002508245,Computers and Portables,All-In-One PC/LCD TV,Pentium 4,43211508
+968,002508448,Computers and Portables,All-In-One PC/LCD TV,PowerPC G5,43211508
+969,002508509,Computers and Portables,All-In-One PC/LCD TV,Intel Core Duo,43211508
+970,002508659,Computers and Portables,All-In-One PC/LCD TV,Intel Core i3,43211508
+971,002508660,Computers and Portables,All-In-One PC/LCD TV,Intel Core i5,43211508
+972,002508661,Computers and Portables,All-In-One PC/LCD TV,Intel Core i7,43211508
+973,002648000,Computers and Portables,Netbook,"",43211503
+974,002662000,Computers and Portables,Tablet Computer,"",43211509
+975,002663000,Computers and Portables,Tablet Accessories,"",43211600
+976,002715000,Computers and Portables,Chromebooks,"",43211503
+977,003014000,Digital Cameras/Keyboards/Inpu,Accessory,"",43211600
+978,003015000,Digital Cameras/Keyboards/Inpu,Bar Code Reader,"",43211701
+979,003019217,Digital Cameras/Keyboards/Inpu,Cables,Keyboard,26121620
+980,003019218,Digital Cameras/Keyboards/Inpu,Cables,Keyboard / mouse,26121620
+981,003019219,Digital Cameras/Keyboards/Inpu,Cables,Keyboard / mouse / video,26121620
+982,003019239,Digital Cameras/Keyboards/Inpu,Cables,Other,26121620
+983,003027533,Digital Cameras/Keyboards/Inpu,Digital Camera,Digital Camera,45121504
+984,003027534,Digital Cameras/Keyboards/Inpu,Digital Camera,Bundle with Printer,45121504
+985,003040000,Digital Cameras/Keyboards/Inpu,Game Controller / Joy Stick,"",43211705
+986,003054000,Digital Cameras/Keyboards/Inpu,Input Adapter,"",43211700
+987,003056000,Digital Cameras/Keyboards/Inpu,Keyboards,"",43211706
+988,003066000,Digital Cameras/Keyboards/Inpu,Microphones - Audio Input,"",43211719
+989,003080000,Digital Cameras/Keyboards/Inpu,Pointing Devices,"",43211708
+990,003080668,Digital Cameras/Keyboards/Inpu,Pointing Devices,Mouse,43211708
+991,003080669,Digital Cameras/Keyboards/Inpu,Pointing Devices,Stylus Pen,43211707
+992,003080670,Digital Cameras/Keyboards/Inpu,Pointing Devices,Whiteboard,44111911
+993,003080671,Digital Cameras/Keyboards/Inpu,Pointing Devices,Remote Presenter / Other,45111810
+994,003349020,Digital Cameras/Keyboards/Inpu,Digital Camera Accessory,Camera Lenses,45121603
+995,003349021,Digital Cameras/Keyboards/Inpu,Digital Camera Accessory,Carrying Cases,45121617
+996,003349239,Digital Cameras/Keyboards/Inpu,Digital Camera Accessory,Other,45121600
+997,003349375,Digital Cameras/Keyboards/Inpu,Digital Camera Accessory,Batteries,26111700
+998,003349450,Digital Cameras/Keyboards/Inpu,Digital Camera Accessory,Memory,32101602
+999,003503481,Digital Cameras/Keyboards/Inpu,Video Camera / Accessory,CCTV Camera,45121516
+1000,003503482,Digital Cameras/Keyboards/Inpu,Video Camera / Accessory,CCTV Lenses,45121603
+1001,003503484,Digital Cameras/Keyboards/Inpu,Video Camera / Accessory,Consumer Camcorder,45121516
+1002,003503491,Digital Cameras/Keyboards/Inpu,Video Camera / Accessory,Imaging Camera,45121516
+1003,003503492,Digital Cameras/Keyboards/Inpu,Video Camera / Accessory,IP Security Camera,46171610
+1004,003503495,Digital Cameras/Keyboards/Inpu,Video Camera / Accessory,Pro Video Lenses,31241501
+1005,003503496,Digital Cameras/Keyboards/Inpu,Video Camera / Accessory,Professional Camcorder,45121505
+1006,003503697,Digital Cameras/Keyboards/Inpu,Video Camera / Accessory,Webcam,45121520
+1007,003634000,Digital Cameras/Keyboards/Inpu,Keyboard & Mice Combo,"",43211706
+1008,003638000,Digital Cameras/Keyboards/Inpu,Remote Control,"",52161525
+1009,005014000,Monitor / Display / Projector,Accessory,"",43212000
+1010,005014740,Monitor / Display / Projector,Accessory,Projector Accessories,42183084
+1011,005014741,Monitor / Display / Projector,Accessory,Monitor Accessories,41116203
+1012,005019181,Monitor / Display / Projector,Cables,Display,26121620
+1013,005038123,Monitor / Display / Projector,LCD Display,< 15 inch,43211902
+1014,005038126,Monitor / Display / Projector,LCD Display,19 - 29 inch,43211902
+1015,005038130,Monitor / Display / Projector,LCD Display,15 inch,43211902
+1016,005038131,Monitor / Display / Projector,LCD Display,16 - 19 inch,43211902
+1017,005038649,Monitor / Display / Projector,LCD Display,> 29 inch,43211902
+1018,005038708,Monitor / Display / Projector,LCD Display,30 - 45 inch,43211902
+1019,005038709,Monitor / Display / Projector,LCD Display,46 inch or larger,43211902
+1020,005078000,Monitor / Display / Projector,Other Display,"",43211900
+1021,005093182,Monitor / Display / Projector,Projector / Panel,DLP projector,45111609
+1022,005093221,Monitor / Display / Projector,Projector / Panel,LCD projector,45111614
+1023,005093239,Monitor / Display / Projector,Projector / Panel,Other,45111600
+1024,005108124,Monitor / Display / Projector,CRT Display,< 17 inch,43211901
+1025,005108126,Monitor / Display / Projector,CRT Display,19 - 29 inch,43211901
+1026,005108132,Monitor / Display / Projector,CRT Display,17 inch,43211901
+1027,005108133,Monitor / Display / Projector,CRT Display,19 inch,43211901
+1028,005108649,Monitor / Display / Projector,CRT Display,> 29 inch,43211901
+1029,005108708,Monitor / Display / Projector,CRT Display,30 - 45 inch,43211901
+1030,005108709,Monitor / Display / Projector,CRT Display,46 inch or larger,43211901
+1031,005501472,Monitor / Display / Projector,Plasma/LCD/CRT TV,< 20 inch,43211904
+1032,005501473,Monitor / Display / Projector,Plasma/LCD/CRT TV,36 - 45 inch,43211904
+1033,005501474,Monitor / Display / Projector,Plasma/LCD/CRT TV,20 inch,43211904
+1034,005501475,Monitor / Display / Projector,Plasma/LCD/CRT TV,27 inch,43211904
+1035,005501476,Monitor / Display / Projector,Plasma/LCD/CRT TV,30 - 32 inch,43211904
+1036,005501506,Monitor / Display / Projector,Plasma/LCD/CRT TV,> 45 inch,43211904
+1037,005501644,Monitor / Display / Projector,Plasma/LCD/CRT TV,22 - 26 inch,43211904
+1038,005501701,Monitor / Display / Projector,Plasma/LCD/CRT TV,27-29 inch,52161505
+1039,005501708,Monitor / Display / Projector,Plasma/LCD/CRT TV,30 - 45 inch,52161505
+1040,005501709,Monitor / Display / Projector,Plasma/LCD/CRT TV,46 inch or larger,52161505
+1041,005510239,Monitor / Display / Projector,Touch Screen,Other,43211900
+1042,005510511,Monitor / Display / Projector,Touch Screen,Capacitive,43211900
+1043,005510512,Monitor / Display / Projector,Touch Screen,Resistive,43211900
+1044,005510710,Monitor / Display / Projector,Touch Screen,Interactive Whiteboards,44111911
+1045,005513000,Monitor / Display / Projector,POS Pole Display,"",43211900
+1046,006017000,Networking,Bridge / Router,"",43222609
+1047,006022000,Networking,Communication Device,"",43222600
+1048,006022647,Networking,Communication Device,Video Conferencing,45111902
+1049,006052211,Networking,Hub / Switch,Hub,43222610
+1050,006052239,Networking,Hub / Switch,Other,43222610
+1051,006052285,Networking,Hub / Switch,Switch,43222612
+1052,006067186,Networking,Modem / Communication,DSL modem,43221600
+1053,006067193,Networking,Modem / Communication,Fax / modem,43201545
+1054,006067228,Networking,Modem / Communication,Modem ISDN / Cable / Digital,43222627
+1055,006067235,Networking,Modem / Communication,Network / modem combo,43222629
+1056,006067239,Networking,Modem / Communication,Other,43222600
+1057,006067298,Networking,Modem / Communication,Voice interface card,43201547
+1058,006068239,Networking,Network Accessory,Other,43220000
+1059,006068483,Networking,Network Accessory,Connectors,39121421
+1060,006069153,Networking,Network Adapter,ATM,43201501
+1061,006069191,Networking,Network Adapter,Ethernet,43201404
+1062,006069192,Networking,Network Adapter,Fast Ethernet,43201404
+1063,006069208,Networking,Network Adapter,Gigabit Ethernet,43201404
+1064,006069239,Networking,Network Adapter,Other,43201404
+1065,006069280,Networking,Network Adapter,Serial,43201404
+1066,006069289,Networking,Network Adapter,Token Ring,43201404
+1067,006069292,Networking,Network Adapter,USB,43201404
+1068,006069683,Networking,Network Adapter,PCI Express,43201404
+1069,006069790,Networking,Network Adapter,Network Interface Cards,43201404
+1070,006070191,Networking,Network Cable,Ethernet,26121609
+1071,006070194,Networking,Network Cable,Fiber optic,26121607
+1072,006070227,Networking,Network Cable,Modem,26121616
+1073,006070234,Networking,Network Cable,Network,26121609
+1074,006070239,Networking,Network Cable,Other,26121609
+1075,006070243,Networking,Network Cable,Patch,26121609
+1076,006070280,Networking,Network Cable,Serial,26121620
+1077,006071168,Networking,Network Device,Control processor,43221700
+1078,006071198,Networking,Network Device,Firewall,43222501
+1079,006071206,Networking,Network Device,Gateway,43222605
+1080,006071223,Networking,Network Device,Load balancing device,43222622
+1081,006071229,Networking,Network Device,Modular expansion base,43222600
+1082,006071236,Networking,Network Device,Network monitoring device,43222600
+1083,006071237,Networking,Network Device,Network testing device,43222600
+1084,006071239,Networking,Network Device,Other,43222600
+1085,006071267,Networking,Network Device,Proxy server,43211502
+1086,006071273,Networking,Network Device,Remote access server,43211502
+1087,006071287,Networking,Network Device,Terminal server,43211502
+1088,006071684,Networking,Network Device,Security Appliance,43222500
+1089,006071788,Networking,Network Device,Optimization,43222600
+1090,006071789,Networking,Network Device,Network Repeaters,43222608
+1091,006099000,Networking,Repeater / Transceiver,"",43222608
+1092,006324147,Networking,Wireless Devices,Accessory,43222600
+1093,006324307,Networking,Wireless Devices,Access Point,43222631
+1094,006324325,Networking,Wireless Devices,PC Card,43201409
+1095,006324326,Networking,Wireless Devices,Desktop Card,43201409
+1096,006324477,Networking,Wireless Devices,Antenna Cable,26121623
+1097,006327328,Networking,Printer Servers,Internal,43201537
+1098,006327329,Networking,Printer Servers,External,43201537
+1099,006494285,Networking,KVM Switch/Cable,Switch,43211604
+1100,006494493,Networking,KVM Switch/Cable,KVM 3 in 1 Cable,26121630
+1101,006536000,Networking,GPS Navigation Devices,"",52161518
+1102,006641000,Networking,Antenna,"",43221706
+1103,006642000,Networking,Concentrator/Multiplexer,"",43222610
+1104,006672000,Networking,Media Converter,"",43201553
+1105,006672146,Networking,Media Converter,Accessories,43201553
+1106,006672673,Networking,Media Converter,FTTx/Optical Demarcation,43201553
+1107,006672674,Networking,Media Converter,Unmanaged,43201553
+1108,006672675,Networking,Media Converter,SNMP Managed,43201553
+1109,006672676,Networking,Media Converter,Mode Converters,43201553
+1110,006672677,Networking,Media Converter,Chassis Platforms,43201553
+1111,006672678,Networking,Media Converter,Power over Ethernet,43201553
+1112,006672679,Networking,Media Converter,SFPs,43201553
+1113,006766791,Networking,Solutions,Test Solutions,81111812
+1114,006766792,Networking,Solutions,Other Solutions,81111812
+1115,006793239,Networking,Network/Service/Support,Other,81111812
+1116,006793794,Networking,Network/Service/Support,Network Training,81111812
+1117,006793795,Networking,Network/Service/Support,Network Maintenance / Support,81111812
+1118,006796172,Networking,Software Network,Data recovery,43232900
+1119,006796173,Networking,Software Network,Data security,43232900
+1120,006796239,Networking,Software Network,Other,43232900
+1121,006796294,Networking,Software Network,Utilities,43232900
+1122,006796769,Networking,Software Network,Application,43232900
+1123,006796776,Networking,Software Network,Data Center,43232900
+1124,006796788,Networking,Software Network,Optimization,43232900
+1125,006796794,Networking,Software Network,Network Training,43232900
+1126,006796797,Networking,Software Network,Management Tools,43232900
+1127,006796798,Networking,Software Network,Subscription,43232900
+1128,006796799,Networking,Software Network,Communication,43232900
+1129,007019154,Audio / Video / Output Devices,Cables,AV / multimedia,26121620
+1130,007106000,Audio / Video / Output Devices,Sound Cards,"",43201502
+1131,007107000,Audio / Video / Output Devices,Speakers,"",52161512
+1132,007121000,Audio / Video / Output Devices,Video Graphic Cards,"",43201401
+1133,007505486,Audio / Video / Output Devices,Video Player,DVD Recorder/Player,52161516
+1134,007505504,Audio / Video / Output Devices,Video Player,Video Cassette Recorder,52161529
+1135,007531146,Audio / Video / Output Devices,IPOD/MP3/Audio players,Accessories,52161600
+1136,007531427,Audio / Video / Output Devices,IPOD/MP3/Audio players,Portable Audio,52161543
+1137,007531528,Audio / Video / Output Devices,IPOD/MP3/Audio players,Home Audio,52161500
+1138,007531529,Audio / Video / Output Devices,IPOD/MP3/Audio players,Skins/Cases,52161600
+1139,007539000,Audio / Video / Output Devices,Headphones,"",52161514
+1140,007636000,Audio / Video / Output Devices,AV Furniture,"",56101501
+1141,007637000,Audio / Video / Output Devices,Combined AV Devices,"",45111800
+1142,007639000,Audio / Video / Output Devices,Video/Audio splitter,"",32101529
+1143,007739000,Audio / Video / Output Devices,Bluetooth Headphones,"",52161514
+1144,008016000,Power Equipment,Battery charger,"",26111704
+1145,008079000,Power Equipment,Other Equipment,"",39121000
+1146,008081000,Power Equipment,Power Accessory,"",39121000
+1147,008082000,Power Equipment,Power adapter,"",39121006
+1148,008083000,Power Equipment,Power array,"",39121011
+1149,008084000,Power Equipment,Power Cables,"",26121629
+1150,008085000,Power Equipment,Power distribution unit,"",39121017
+1151,008086000,Power Equipment,Power supply,"",39121004
+1152,008112000,Power Equipment,Surge suppressor,"",39121610
+1153,008118000,Power Equipment,UPS,"",39121011
+1154,008532000,Power Equipment,Batteries,"",26111700
+1155,009019256,Printers,Cables,Printer,26121620
+1156,009029000,Printers,Dot-matrix,"",43212102
+1157,009029239,Printers,Dot-matrix,Other,43212102
+1158,009029309,Printers,Dot-matrix,Workgroup,43212102
+1159,009029429,Printers,Dot-matrix,Label Printer/Maker,43212102
+1160,009029431,Printers,Dot-matrix,POS Receipt Printer,43212102
+1161,009029543,Printers,Dot-matrix,Large-Format Floor Model,43212102
+1162,009053220,Printers,Ink-jet,Large-format,43212104
+1163,009053231,Printers,Ink-jet,Multifunction,43212104
+1164,009053252,Printers,Ink-jet,Personal,43212104
+1165,009053309,Printers,Ink-jet,Workgroup,43212104
+1166,009053543,Printers,Ink-jet,Large-Format Floor Model,43212104
+1167,009053744,Printers,Ink-jet,Single-function,43212104
+1168,009058231,Printers,Laser - B/W,Multifunction,43212105
+1169,009058252,Printers,Laser - B/W,Personal,43212105
+1170,009058309,Printers,Laser - B/W,Workgroup,43212105
+1171,009058543,Printers,Laser - B/W,Large-Format Floor Model,43212105
+1172,009058744,Printers,Laser - B/W,Single-function,43212105
+1173,009059231,Printers,Laser - Color,Multifunction,43212103
+1174,009059252,Printers,Laser - Color,Personal,43212103
+1175,009059309,Printers,Laser - Color,Workgroup,43212103
+1176,009059543,Printers,Laser - Color,Large-Format Floor Model,43212105
+1177,009059744,Printers,Laser - Color,Single-function,43212105
+1178,009060000,Printers,LCD / LED,"",43212106
+1179,009088239,Printers,Printer Consumables,Other,44103109
+1180,009088257,Printers,Printer Consumables,Printer Cartridge - Ink-jet,44103105
+1181,009088258,Printers,Printer Consumables,Printer Cartridge - Laser Colo,44103103
+1182,009088259,Printers,Printer Consumables,Printer Cartridge - Other,44103100
+1183,009088260,Printers,Printer Consumables,Printer drum kit,44103109
+1184,009088263,Printers,Printer Consumables,Printer ribbon,44103112
+1185,009088333,Printers,Printer Consumables,Inkjet cartridge and print hea,44103110
+1186,009088334,Printers,Printer Consumables,Printer Cartridge - Laser Mono,44103103
+1187,009088335,Printers,Printer Consumables,Solid ink sticks,44103106
+1188,009088336,Printers,Printer Consumables,Printer drum-fuser-maintenance,44103109
+1189,009088337,Printers,Printer Consumables,Impact printer ribbon and prin,44103112
+1190,009088339,Printers,Printer Consumables,Compatible inkjet cartridge-pr,44103105
+1191,009088340,Printers,Printer Consumables,Color toner cartridge,44103103
+1192,009088341,Printers,Printer Consumables,Remanufactured inkjet cartridg,44103105
+1193,009088342,Printers,Printer Consumables,Compatible mono toner,44103103
+1194,009088343,Printers,Printer Consumables,Compatible solid ink sticks,44103106
+1195,009088344,Printers,Printer Consumables,Remanufactured mono toner,44103103
+1196,009088345,Printers,Printer Consumables,Compatible color toner,44103103
+1197,009088346,Printers,Printer Consumables,Remanufactured color toner,44103103
+1198,009088435,Printers,Printer Consumables,Direct Thermal and Thermal Tra,55121600
+1199,009088436,Printers,Printer Consumables,Printer Cleaning Products,44103107
+1200,009088437,Printers,Printer Consumables,Thermal Transfer ribbon and pr,44103112
+1201,009117000,Printers,Trays and Accessories,"",44101700
+1202,009428239,Printers,Thermal,Other,43212108
+1203,009428429,Printers,Thermal,Label Printer/Maker,43212108
+1204,009428430,Printers,Thermal,Personal Printer,43212108
+1205,009428431,Printers,Thermal,POS Receipt Printer,43212112
+1206,009428432,Printers,Thermal,Digital Photo Printer,43212114
+1207,009428433,Printers,Thermal,Plastic Card Printer,43212114
+1208,009428540,Printers,Thermal,Handheld Label Printer/Maker,43212108
+1209,009515239,Printers,Printer Service Parts,Other,44101700
+1210,009515514,Printers,Printer Service Parts,Thermal and Thermal Transfer P,44101700
+1211,009640000,Printers,Solid ink,"",43212104
+1212,009711712,Printers,3D Printers,Industrial,23261507
+1213,009711713,Printers,3D Printers,Consumer,23261507
+1214,009711714,Printers,3D Printers,Consumables,45101700
+1215,010023000,Service / Support,Computer / Laptop Warranties,"",81111812
+1216,010072000,Service / Support,Network Hardware Warranties,"",81111812
+1217,010077000,Service / Support,Other,"",81111812
+1218,010087000,Service / Support,Printer / Monitor Warranties,"",81111812
+1219,010105000,Service / Support,Software Support,"",81112200
+1220,010111000,Service / Support,Storage Device Warranties,"",81111812
+1221,010323000,Service / Support,Install / Reconfig / Service F,"",81111811
+1222,010537000,Service / Support,AV Product Support,"",81111812
+1223,010538000,Service / Support,Input Device Support,"",81111812
+1224,011024000,Software,Computer Based Training,"",43232502
+1225,011025159,Software,Creativity Application,CAD / CAM,43232604
+1226,011025177,Software,Creativity Application,Desktop Publishing,43232112
+1227,011025204,Software,Creativity Application,Fonts,44101720
+1228,011025209,Software,Creativity Application,Graphics,43232102
+1229,011025213,Software,Creativity Application,Image Editing,43232102
+1230,011025232,Software,Creativity Application,Multimedia Authoring,43232100
+1231,011025239,Software,Creativity Application,Other,43232100
+1232,011025255,Software,Creativity Application,Presentation,43232106
+1233,011025296,Software,Creativity Application,Video Editing,43232103
+1234,011025301,Software,Creativity Application,Web Graphic Tools,43232107
+1235,011025685,Software,Creativity Application,Labeling/Barcode software,43231509
+1236,011037000,Software,Education Application,"",43232500
+1237,011039000,Software,Game / Entertainment,"",43232000
+1238,011051000,Software,Home / Lifestyle Application,"",43232004
+1239,011055145,Software,Internet Application,Access / Login control,43233200
+1240,011055150,Software,Internet Application,Anti-Virus,43233205
+1241,011055176,Software,Internet Application,Database Publishing,43232305
+1242,011055189,Software,Internet Application,e-Commerce,43232611
+1243,011055190,Software,Internet Application,Email / FTP / Fax,43233500
+1244,011055198,Software,Internet Application,Firewall,43233203
+1245,011055214,Software,Internet Application,Internet Security,43233203
+1246,011055215,Software,Internet Application,Internet Utilities,43232309
+1247,011055225,Software,Internet Application,Management Application,43232200
+1248,011055239,Software,Internet Application,Other,43232300
+1249,011055300,Software,Internet Application,Web Design / Publishing,43232107
+1250,011055302,Software,Internet Application,Web Server,43232408
+1251,011055445,Software,Internet Application,News Publishing Tools,43232107
+1252,011073166,Software,Network Management Tools,Connectivity,43232911
+1253,011073171,Software,Network Management Tools,Data encryption,43233203
+1254,011073207,Software,Network Management Tools,Gateway server,43233203
+1255,011073230,Software,Network Management Tools,Monitoring,43233205
+1256,011073239,Software,Network Management Tools,Other,43233203
+1257,011073274,Software,Network Management Tools,Remote backup,43232907
+1258,011073275,Software,Network Management Tools,Remote management,43233205
+1259,011073284,Software,Network Management Tools,Storage management,43232907
+1260,011073286,Software,Network Management Tools,System management,43233203
+1261,011073681,Software,Network Management Tools,Clustering / High-availability,43232302
+1262,011075222,Software,Operating System,Linux,43233004
+1263,011075233,Software,Operating System,NetWare,43233002
+1264,011075239,Software,Operating System,Other,43233004
+1265,011075303,Software,Operating System,Windows 2000,43233004
+1266,011075304,Software,Operating System,Windows NT,43233004
+1267,011075305,Software,Operating System,Windows Other,43233004
+1268,011075306,Software,Operating System,Windows XP,43233004
+1269,011075347,Software,Operating System,Windows 2003,43233004
+1270,011075438,Software,Operating System,Apple MacOS,43233004
+1271,011075439,Software,Operating System,Apple MacOS Server,43233004
+1272,011075440,Software,Operating System,Cisco IOS,43233004
+1273,011075441,Software,Operating System,SCO,43233004
+1274,011075442,Software,Operating System,Unixware,43233004
+1275,011075633,Software,Operating System,Windows Vista,43233004
+1276,011075686,Software,Operating System,Windows 7,43233004
+1277,011075700,Software,Operating System,Windows 8,43233004
+1278,011091148,Software,Productivity Applications,Accounting,43231601
+1279,011091165,Software,Productivity Applications,Commercial finance,43231600
+1280,011091167,Software,Productivity Applications,Contact management,43232903
+1281,011091175,Software,Productivity Applications,Database / reporting,43232305
+1282,011091210,Software,Productivity Applications,Groupware,43231513
+1283,011091238,Software,Productivity Applications,Office suite,43231513
+1284,011091239,Software,Productivity Applications,Other,43231500
+1285,011091244,Software,Productivity Applications,PDA software,43231500
+1286,011091255,Software,Productivity Applications,Presentation,43232106
+1287,011091266,Software,Productivity Applications,Projects / process,43231507
+1288,011091283,Software,Productivity Applications,Spreadsheet,43232110
+1289,011091288,Software,Productivity Applications,Time management,43231605
+1290,011091308,Software,Productivity Applications,Word processor,43232104
+1291,011091687,Software,Productivity Applications,Inventory Systems,43231508
+1292,011091688,Software,Productivity Applications,CRM Software,43232305
+1293,011092156,Software,Programming Tools,Basic,43232409
+1294,011092157,Software,Programming Tools,C++,43232409
+1295,011092174,Software,Programming Tools,Database / connectivity,43232304
+1296,011092216,Software,Programming Tools,JAVA,43232408
+1297,011092239,Software,Programming Tools,Other,43232400
+1298,011092269,Software,Programming Tools,RAD suites,43232407
+1299,011092294,Software,Programming Tools,Utilities,43232400
+1300,011092299,Software,Programming Tools,Web applications,43232408
+1301,011095000,Software,Reference / Data Source,"",43232309
+1302,011104000,Software,Software Suite,"",43231513
+1303,011120151,Software,Utilities,Antivirus / PC diagnostic,43233205
+1304,011120155,Software,Utilities,Backup / compression,43233415
+1305,011120169,Software,Utilities,Crash protection,43233400
+1306,011120172,Software,Utilities,Data recovery,43233400
+1307,011120173,Software,Utilities,Data security,43233200
+1308,011120180,Software,Utilities,Disk management,43233400
+1309,011120185,Software,Utilities,Document management,43232300
+1310,011120196,Software,Utilities,File / desktop management,43232300
+1311,011120197,Software,Utilities,File viewing / conversion,43232300
+1312,011120205,Software,Utilities,Fonts management,44101720
+1313,011120239,Software,Utilities,Other,43233400
+1314,011120251,Software,Utilities,Performance management,43232802
+1315,011120262,Software,Utilities,Printer management,43232800
+1316,011120272,Software,Utilities,Remote access / control,43232901
+1317,011120295,Software,Utilities,Utilities Suite,43233400
+1318,011120443,Software,Utilities,Emulation,43232400
+1319,011120444,Software,Utilities,Hardware Optimizing,43233400
+1320,011120689,Software,Utilities,Server Virtualization,43232701
+1321,011120690,Software,Utilities,Storage Virtualization,43212201
+1322,011120691,Software,Utilities,System Deployment and Migratio,43232804
+1323,011667000,Software,Cloud Application,"",43230000
+1324,012018000,Storage Devices,Cabinets / Enclosures,"",24102001
+1325,012019195,Storage Devices,Cables,Fibre Channel,26121607
+1326,012019202,Storage Devices,Cables,Floppy,26121624
+1327,012019212,Storage Devices,Cables,IDE / EIDE,26121624
+1328,012019239,Storage Devices,Cables,Other,26121620
+1329,012019278,Storage Devices,Cables,SCSI external,26121620
+1330,012019279,Storage Devices,Cables,SCSI internal,26121624
+1331,012043125,Storage Devices,Hard Drive Fibre Channel,< 20 GB,43201803
+1332,012043135,Storage Devices,Hard Drive Fibre Channel,21 GB to 39 GB,43201803
+1333,012043138,Storage Devices,Hard Drive Fibre Channel,40 GB to 69 GB,43201803
+1334,012043143,Storage Devices,Hard Drive Fibre Channel,70+ GB,43201803
+1335,012044122,Storage Devices,Hard Drive ATA / SATA <= 5400,< 10 GB,43201803
+1336,012044127,Storage Devices,Hard Drive ATA / SATA <= 5400,10 GB to 29 GB,43201803
+1337,012044137,Storage Devices,Hard Drive ATA / SATA <= 5400,30 GB to 49 GB,43201803
+1338,012044139,Storage Devices,Hard Drive ATA / SATA <= 5400,50 GB to 69 GB,43201803
+1339,012044142,Storage Devices,Hard Drive ATA / SATA <= 5400,70 GB to 99 GB,43201803
+1340,012044330,Storage Devices,Hard Drive ATA / SATA <= 5400,100 GB to 179 GB,43201803
+1341,012044331,Storage Devices,Hard Drive ATA / SATA <= 5400,180+ GB,43201803
+1342,012045122,Storage Devices,Hard Drive ATA / SATA 7200+ RP,< 10 GB,43201803
+1343,012045127,Storage Devices,Hard Drive ATA / SATA 7200+ RP,10 GB to 29 GB,43201803
+1344,012045137,Storage Devices,Hard Drive ATA / SATA 7200+ RP,30 GB to 49 GB,43201803
+1345,012045139,Storage Devices,Hard Drive ATA / SATA 7200+ RP,50 GB to 69 GB,43201803
+1346,012045142,Storage Devices,Hard Drive ATA / SATA 7200+ RP,70 GB to 99 GB,43201803
+1347,012045330,Storage Devices,Hard Drive ATA / SATA 7200+ RP,100 GB to 179 GB,43201803
+1348,012045331,Storage Devices,Hard Drive ATA / SATA 7200+ RP,180+ GB,43201803
+1349,012046122,Storage Devices,Hard Drive Mobile 2.5 in.,< 10 GB,43201803
+1350,012046127,Storage Devices,Hard Drive Mobile 2.5 in.,10 GB to 29 GB,43201803
+1351,012046128,Storage Devices,Hard Drive Mobile 2.5 in.,100+ GB,43201803
+1352,012046137,Storage Devices,Hard Drive Mobile 2.5 in.,30 GB to 49 GB,43201803
+1353,012046139,Storage Devices,Hard Drive Mobile 2.5 in.,50 GB to 69 GB,43201803
+1354,012046142,Storage Devices,Hard Drive Mobile 2.5 in.,70 GB to 99 GB,43201803
+1355,012047200,Storage Devices,Hard Drive Other,FireWire,43201803
+1356,012047239,Storage Devices,Hard Drive Other,Other,43201803
+1357,012047292,Storage Devices,Hard Drive Other,USB,43201803
+1358,012047293,Storage Devices,Hard Drive Other,USB 2.0,43201803
+1359,012048122,Storage Devices,Hard Drive SCSI <= 7200 RPM,< 10 GB,43201803
+1360,012048127,Storage Devices,Hard Drive SCSI <= 7200 RPM,10 GB to 29 GB,43201803
+1361,012048128,Storage Devices,Hard Drive SCSI <= 7200 RPM,100+ GB,43201803
+1362,012048137,Storage Devices,Hard Drive SCSI <= 7200 RPM,30 GB to 49 GB,43201803
+1363,012048139,Storage Devices,Hard Drive SCSI <= 7200 RPM,50 GB to 69 GB,43201803
+1364,012048142,Storage Devices,Hard Drive SCSI <= 7200 RPM,70 GB to 99 GB,43201803
+1365,012049122,Storage Devices,Hard Drive SCSI 10K RPM,< 10 GB,43201803
+1366,012049127,Storage Devices,Hard Drive SCSI 10K RPM,10 GB to 29 GB,43201803
+1367,012049128,Storage Devices,Hard Drive SCSI 10K RPM,100+ GB,43201803
+1368,012049137,Storage Devices,Hard Drive SCSI 10K RPM,30 GB to 49 GB,43201803
+1369,012049139,Storage Devices,Hard Drive SCSI 10K RPM,50 GB to 69 GB,43201803
+1370,012049142,Storage Devices,Hard Drive SCSI 10K RPM,70 GB to 99 GB,43201803
+1371,012050122,Storage Devices,Hard Drive SCSI 15K RPM,< 10 GB,43201803
+1372,012050127,Storage Devices,Hard Drive SCSI 15K RPM,10 GB to 29 GB,43201803
+1373,012050128,Storage Devices,Hard Drive SCSI 15K RPM,100+ GB,43201803
+1374,012050137,Storage Devices,Hard Drive SCSI 15K RPM,30 GB to 49 GB,43201803
+1375,012050139,Storage Devices,Hard Drive SCSI 15K RPM,50 GB to 69 GB,43201803
+1376,012050142,Storage Devices,Hard Drive SCSI 15K RPM,70 GB to 99 GB,43201803
+1377,012074000,Storage Devices,Network Storage,"",43201802
+1378,012074680,Storage Devices,Network Storage,Secure Storage,43202206
+1379,012096161,Storage Devices,Removable Disk Drive,CD-ROM,43201808
+1380,012096162,Storage Devices,Removable Disk Drive,CD-RW,43201809
+1381,012096163,Storage Devices,Removable Disk Drive,"DVD (ROM, RW, CD Combo)",43201811
+1382,012096203,Storage Devices,Removable Disk Drive,Floppy disk,43201801
+1383,012096224,Storage Devices,Removable Disk Drive,Magneto-Optical disk,43201902
+1384,012096239,Storage Devices,Removable Disk Drive,Other,43201800
+1385,012096310,Storage Devices,Removable Disk Drive,ZIP / JAZ Disk,43201813
+1386,012097160,Storage Devices,Removable Media,CD-R,43202001
+1387,012097162,Storage Devices,Removable Media,CD-RW,43202001
+1388,012097170,Storage Devices,Removable Media,4mm DDS / DAT,43202002
+1389,012097203,Storage Devices,Removable Media,Floppy disk,43202004
+1390,012097224,Storage Devices,Removable Media,Magneto-Optical disk,43202000
+1391,012097268,Storage Devices,Removable Media,QIC,43202002
+1392,012097281,Storage Devices,Removable Media,SLR / MLR,43202002
+1393,012097290,Storage Devices,Removable Media,Travan,43202002
+1394,012097310,Storage Devices,Removable Media,ZIP / JAZ Disk,43202000
+1395,012097454,Storage Devices,Removable Media,1/2 inch Enterprise,43202002
+1396,012097457,Storage Devices,Removable Media,8mm D8,43202002
+1397,012097458,Storage Devices,Removable Media,8mm Mammoth,43202002
+1398,012097459,Storage Devices,Removable Media,8mm VXA,43202002
+1399,012097460,Storage Devices,Removable Media,8mm Other (357x),43202002
+1400,012097461,Storage Devices,Removable Media,8mm AIT,43202002
+1401,012097462,Storage Devices,Removable Media,Super AIT,43202002
+1402,012097463,Storage Devices,Removable Media,DLT / VS,43202002
+1403,012097464,Storage Devices,Removable Media,Super DLT,43202002
+1404,012097465,Storage Devices,Removable Media,DVD R,43202003
+1405,012097466,Storage Devices,Removable Media,DVD RW,43202003
+1406,012097467,Storage Devices,Removable Media,DVD RAM,43202003
+1407,012097468,Storage Devices,Removable Media,Other Tape Media,43202002
+1408,012097469,Storage Devices,Removable Media,Other Disk Media,43202000
+1409,012097470,Storage Devices,Removable Media,LTO Ultrium 1,43202002
+1410,012097471,Storage Devices,Removable Media,LTO Ultrium 2,43202002
+1411,012097645,Storage Devices,Removable Media,LTO Ultrium 3,43202002
+1412,012097646,Storage Devices,Removable Media,LTO Ultrium 4,43202002
+1413,012097745,Storage Devices,Removable Media,LTO Ultrium 5,43202002
+1414,012097746,Storage Devices,Removable Media,LTO Ultrium 6,43202002
+1415,012097747,Storage Devices,Removable Media,LTO Ultrium 7,43202002
+1416,012097748,Storage Devices,Removable Media,LTO Ultrium 8,43202002
+1417,012097749,Storage Devices,Removable Media,LTO Ultrium 9,43202002
+1418,012097750,Storage Devices,Removable Media,LTO Ultrium 10,43202002
+1419,012098144,Storage Devices,Removable Tape Drive,"8mm Other (VXA, D8, Mammoth)",43201807
+1420,012098149,Storage Devices,Removable Tape Drive,8mm AIT / SAIT,43201806
+1421,012098170,Storage Devices,Removable Tape Drive,4mm DDS / DAT,43201807
+1422,012098183,Storage Devices,Removable Tape Drive,DLT / Super DLT / VS,43201806
+1423,012098239,Storage Devices,Removable Tape Drive,Other,43201807
+1424,012098281,Storage Devices,Removable Tape Drive,SLR / MLR,43201807
+1425,012098290,Storage Devices,Removable Tape Drive,Travan,43201807
+1426,012098291,Storage Devices,Removable Tape Drive,LTO Ultrium,43201807
+1427,012098454,Storage Devices,Removable Tape Drive,1/2 inch Enterprise,43201807
+1428,012109000,Storage Devices,Storage Accessory,"",43202105
+1429,012110195,Storage Devices,Storage Adapters,Fibre Channel,43201404
+1430,012110212,Storage Devices,Storage Adapters,IDE / EIDE,43201500
+1431,012110239,Storage Devices,Storage Adapters,Other,43201500
+1432,012110270,Storage Devices,Storage Adapters,RAID,43201500
+1433,012110277,Storage Devices,Storage Adapters,SCSI,43201500
+1434,012456149,Storage Devices,Tape Libraries / Autoloaders,8mm AIT / SAIT,43201806
+1435,012456170,Storage Devices,Tape Libraries / Autoloaders,4mm DDS / DAT,43201806
+1436,012456183,Storage Devices,Tape Libraries / Autoloaders,DLT / Super DLT / VS,43201806
+1437,012456239,Storage Devices,Tape Libraries / Autoloaders,Other,43201806
+1438,012456291,Storage Devices,Tape Libraries / Autoloaders,LTO Ultrium,43201806
+1439,012456454,Storage Devices,Tape Libraries / Autoloaders,1/2 inch Enterprise,43201806
+1440,012456455,Storage Devices,Tape Libraries / Autoloaders,Optical,43201806
+1441,012499487,Storage Devices,Security Storage,DVR/Digital Video Recorders,52161516
+1442,012499502,Storage Devices,Security Storage,Time Lapse VCR,52161529
+1443,012635000,Storage Devices,Solid State Drive,"",43201830
+1444,012805818,Storage Devices,SSD Client - 3.5 inch,<150GB,43201830
+1445,012805819,Storage Devices,SSD Client - 3.5 inch,150GB - 300GB,43201830
+1446,012805820,Storage Devices,SSD Client - 3.5 inch,301GB- 600GB,43201830
+1447,012805821,Storage Devices,SSD Client - 3.5 inch,601GB - 1.2TB,43201830
+1448,012805822,Storage Devices,SSD Client - 3.5 inch,1.3TB - 2.0TB,43201830
+1449,012805823,Storage Devices,SSD Client - 3.5 inch,2.1TB - 5TB,43201830
+1450,012805824,Storage Devices,SSD Client - 3.5 inch,5TB+,43201830
+1451,012806818,Storage Devices,SSD Client - 2.5 inch,<150GB,43201830
+1452,012806819,Storage Devices,SSD Client - 2.5 inch,150GB - 300GB,43201830
+1453,012806820,Storage Devices,SSD Client - 2.5 inch,301GB- 600GB,43201830
+1454,012806821,Storage Devices,SSD Client - 2.5 inch,601GB - 1.2TB,43201830
+1455,012806822,Storage Devices,SSD Client - 2.5 inch,1.3TB - 2.0TB,43201830
+1456,012806823,Storage Devices,SSD Client - 2.5 inch,2.1TB - 5TB,43201830
+1457,012806824,Storage Devices,SSD Client - 2.5 inch,5TB+,43201830
+1458,012807818,Storage Devices,SSD Client - Msata,<150GB,43201830
+1459,012807819,Storage Devices,SSD Client - Msata,150GB - 300GB,43201830
+1460,012807820,Storage Devices,SSD Client - Msata,301GB- 600GB,43201830
+1461,012807821,Storage Devices,SSD Client - Msata,601GB - 1.2TB,43201830
+1462,012807822,Storage Devices,SSD Client - Msata,1.3TB - 2.0TB,43201830
+1463,012807823,Storage Devices,SSD Client - Msata,2.1TB - 5TB,43201830
+1464,012807824,Storage Devices,SSD Client - Msata,5TB+,43201830
+1465,012808818,Storage Devices,SSD Client - M.2,<150GB,43201830
+1466,012808819,Storage Devices,SSD Client - M.2,150GB - 300GB,43201830
+1467,012808820,Storage Devices,SSD Client - M.2,301GB- 600GB,43201830
+1468,012808821,Storage Devices,SSD Client - M.2,601GB - 1.2TB,43201830
+1469,012808822,Storage Devices,SSD Client - M.2,1.3TB - 2.0TB,43201830
+1470,012808823,Storage Devices,SSD Client - M.2,2.1TB - 5TB,43201830
+1471,012808824,Storage Devices,SSD Client - M.2,5TB+,43201830
+1472,012809818,Storage Devices,SSD Client - Add In Card (AIC),<150GB,43201830
+1473,012809819,Storage Devices,SSD Client - Add In Card (AIC),150GB - 300GB,43201830
+1474,012809820,Storage Devices,SSD Client - Add In Card (AIC),301GB- 600GB,43201830
+1475,012809821,Storage Devices,SSD Client - Add In Card (AIC),601GB - 1.2TB,43201830
+1476,012809822,Storage Devices,SSD Client - Add In Card (AIC),1.3TB - 2.0TB,43201830
+1477,012809823,Storage Devices,SSD Client - Add In Card (AIC),2.1TB - 5TB,43201830
+1478,012809824,Storage Devices,SSD Client - Add In Card (AIC),5TB+,43201830
+1479,012810818,Storage Devices,SSD Client- External,<150GB,43201830
+1480,012810819,Storage Devices,SSD Client- External,150GB - 300GB,43201830
+1481,012810820,Storage Devices,SSD Client- External,301GB- 600GB,43201830
+1482,012810821,Storage Devices,SSD Client- External,601GB - 1.2TB,43201830
+1483,012810822,Storage Devices,SSD Client- External,1.3TB - 2.0TB,43201830
+1484,012810823,Storage Devices,SSD Client- External,2.1TB - 5TB,43201830
+1485,012810824,Storage Devices,SSD Client- External,5TB+,43201830
+1486,012811818,Storage Devices,SSD Client - Other,<150GB,43201830
+1487,012811819,Storage Devices,SSD Client - Other,150GB - 300GB,43201830
+1488,012811820,Storage Devices,SSD Client - Other,301GB- 600GB,43201830
+1489,012811821,Storage Devices,SSD Client - Other,601GB - 1.2TB,43201830
+1490,012811822,Storage Devices,SSD Client - Other,1.3TB - 2.0TB,43201830
+1491,012811823,Storage Devices,SSD Client - Other,2.1TB - 5TB,43201830
+1492,012811824,Storage Devices,SSD Client - Other,5TB+,43201830
+1493,012812818,Storage Devices,SSD Enterprise - 3.5 inch,<150GB,43201830
+1494,012812819,Storage Devices,SSD Enterprise - 3.5 inch,150GB - 300GB,43201830
+1495,012812820,Storage Devices,SSD Enterprise - 3.5 inch,301GB- 600GB,43201830
+1496,012812821,Storage Devices,SSD Enterprise - 3.5 inch,601GB - 1.2TB,43201830
+1497,012812822,Storage Devices,SSD Enterprise - 3.5 inch,1.3TB - 2.0TB,43201830
+1498,012812823,Storage Devices,SSD Enterprise - 3.5 inch,2.1TB - 5TB,43201830
+1499,012812824,Storage Devices,SSD Enterprise - 3.5 inch,5TB+,43201830
+1500,012813818,Storage Devices,SSD Enterprise - 2.5 inch/U.2,<150GB,43201830
+1501,012813819,Storage Devices,SSD Enterprise - 2.5 inch/U.2,150GB - 300GB,43201830
+1502,012813820,Storage Devices,SSD Enterprise - 2.5 inch/U.2,301GB- 600GB,43201830
+1503,012813821,Storage Devices,SSD Enterprise - 2.5 inch/U.2,601GB - 1.2TB,43201830
+1504,012813822,Storage Devices,SSD Enterprise - 2.5 inch/U.2,1.3TB - 2.0TB,43201830
+1505,012813823,Storage Devices,SSD Enterprise - 2.5 inch/U.2,2.1TB - 5TB,43201830
+1506,012813824,Storage Devices,SSD Enterprise - 2.5 inch/U.2,5TB+,43201830
+1507,012814818,Storage Devices,SSD Enterprise - M.2,<150GB,43201830
+1508,012814819,Storage Devices,SSD Enterprise - M.2,150GB - 300GB,43201830
+1509,012814820,Storage Devices,SSD Enterprise - M.2,301GB- 600GB,43201830
+1510,012814821,Storage Devices,SSD Enterprise - M.2,601GB - 1.2TB,43201830
+1511,012814822,Storage Devices,SSD Enterprise - M.2,1.3TB - 2.0TB,43201830
+1512,012814823,Storage Devices,SSD Enterprise - M.2,2.1TB - 5TB,43201830
+1513,012814824,Storage Devices,SSD Enterprise - M.2,5TB+,43201830
+1514,012815818,Storage Devices,SSD Enterprise - Add In Card (,<150GB,43201830
+1515,012815819,Storage Devices,SSD Enterprise - Add In Card (,150GB - 300GB,43201830
+1516,012815820,Storage Devices,SSD Enterprise - Add In Card (,301GB- 600GB,43201830
+1517,012815821,Storage Devices,SSD Enterprise - Add In Card (,601GB - 1.2TB,43201830
+1518,012815822,Storage Devices,SSD Enterprise - Add In Card (,1.3TB - 2.0TB,43201830
+1519,012815823,Storage Devices,SSD Enterprise - Add In Card (,2.1TB - 5TB,43201830
+1520,012815824,Storage Devices,SSD Enterprise - Add In Card (,5TB+,43201830
+1521,012816818,Storage Devices,SSD Enterprise - EDSFF/ Ruler,<150GB,43201830
+1522,012816819,Storage Devices,SSD Enterprise - EDSFF/ Ruler,150GB - 300GB,43201830
+1523,012816820,Storage Devices,SSD Enterprise - EDSFF/ Ruler,301GB- 600GB,43201830
+1524,012816821,Storage Devices,SSD Enterprise - EDSFF/ Ruler,601GB - 1.2TB,43201830
+1525,012816822,Storage Devices,SSD Enterprise - EDSFF/ Ruler,1.3TB - 2.0TB,43201830
+1526,012816823,Storage Devices,SSD Enterprise - EDSFF/ Ruler,2.1TB - 5TB,43201830
+1527,012816824,Storage Devices,SSD Enterprise - EDSFF/ Ruler,5TB+,43201830
+1528,012817818,Storage Devices,SSD Enterprise - Other,<150GB,43201830
+1529,012817819,Storage Devices,SSD Enterprise - Other,150GB - 300GB,43201830
+1530,012817820,Storage Devices,SSD Enterprise - Other,301GB- 600GB,43201830
+1531,012817821,Storage Devices,SSD Enterprise - Other,601GB - 1.2TB,43201830
+1532,012817822,Storage Devices,SSD Enterprise - Other,1.3TB - 2.0TB,43201830
+1533,012817823,Storage Devices,SSD Enterprise - Other,2.1TB - 5TB,43201830
+1534,012817824,Storage Devices,SSD Enterprise - Other,5TB+,43201830
+1535,013030000,Computer Components,DRAM - DIMM 168-pin Other,"",32101602
+1536,013031129,Computer Components,DRAM - DIMM 168-pin PC100,128MB,32101602
+1537,013031134,Computer Components,DRAM - DIMM 168-pin PC100,1GB,32101602
+1538,013031136,Computer Components,DRAM - DIMM 168-pin PC100,256MB,32101602
+1539,013031140,Computer Components,DRAM - DIMM 168-pin PC100,512MB,32101602
+1540,013031141,Computer Components,DRAM - DIMM 168-pin PC100,64MB,32101602
+1541,013031239,Computer Components,DRAM - DIMM 168-pin PC100,Other,32101602
+1542,013032129,Computer Components,DRAM - DIMM 168-pin PC133,128MB,32101602
+1543,013032134,Computer Components,DRAM - DIMM 168-pin PC133,1GB,32101602
+1544,013032136,Computer Components,DRAM - DIMM 168-pin PC133,256MB,32101602
+1545,013032140,Computer Components,DRAM - DIMM 168-pin PC133,512MB,32101602
+1546,013032141,Computer Components,DRAM - DIMM 168-pin PC133,64MB,32101602
+1547,013032239,Computer Components,DRAM - DIMM 168-pin PC133,Other,32101602
+1548,013033178,Computer Components,DRAM - Other,DIMM 100-pin,32101602
+1549,013033239,Computer Components,DRAM - Other,Other,32101602
+1550,013033276,Computer Components,DRAM - Other,RIMM 168-pin,32101602
+1551,013033282,Computer Components,DRAM - Other,SO DIMM 72-pin,32101602
+1552,013034000,Computer Components,DRAM - RIMM 184-pin,"",32101602
+1553,013035000,Computer Components,DRAM - SIMM 72-pin,"",32101602
+1554,013036000,Computer Components,DRAM - SO DIMM 144-pin,"",32101602
+1555,013061152,Computer Components,Mainboard - AMD Chipset,Athlon,43201513
+1556,013061164,Computer Components,Mainboard - AMD Chipset,Celeron,43201513
+1557,013061240,Computer Components,Mainboard - AMD Chipset,Other CPU,43201513
+1558,013061245,Computer Components,Mainboard - AMD Chipset,Pentium 4,43201513
+1559,013061247,Computer Components,Mainboard - AMD Chipset,Pentium III,43201513
+1560,013062152,Computer Components,Mainboard - Intel Chipset,Athlon,43201513
+1561,013062164,Computer Components,Mainboard - Intel Chipset,Celeron,43201513
+1562,013062240,Computer Components,Mainboard - Intel Chipset,Other CPU,43201513
+1563,013062245,Computer Components,Mainboard - Intel Chipset,Pentium 4,43201513
+1564,013062247,Computer Components,Mainboard - Intel Chipset,Pentium III,43201513
+1565,013063152,Computer Components,Mainboard - Other Chipset,Athlon,43201513
+1566,013063164,Computer Components,Mainboard - Other Chipset,Celeron,43201513
+1567,013063240,Computer Components,Mainboard - Other Chipset,Other CPU,43201513
+1568,013063245,Computer Components,Mainboard - Other Chipset,Pentium 4,43201513
+1569,013063247,Computer Components,Mainboard - Other Chipset,Pentium III,43201513
+1570,013064152,Computer Components,Mainboard - VIA chipset,Athlon,43201513
+1571,013064164,Computer Components,Mainboard - VIA chipset,Celeron,43201513
+1572,013064240,Computer Components,Mainboard - VIA chipset,Other CPU,43201513
+1573,013064245,Computer Components,Mainboard - VIA chipset,Pentium 4,43201513
+1574,013064247,Computer Components,Mainboard - VIA chipset,Pentium III,43201513
+1575,013065158,Computer Components,Memory - Other,Cache Memory,32101601
+1576,013065226,Computer Components,Memory - Other,Memory Adapter,32101617
+1577,013065271,Computer Components,Memory - Other,Read-Only Memory,32101608
+1578,013065297,Computer Components,Memory - Other,Video Memory,32101602
+1579,013089239,Computer Components,Processor / CPU Accessory,Other,43201503
+1580,013089485,Computer Components,Processor / CPU Accessory,CPU Coolers,43201538
+1581,013089488,Computer Components,Processor / CPU Accessory,Fanguards,40101605
+1582,013089489,Computer Components,Processor / CPU Accessory,Fans,40101604
+1583,013090164,Computer Components,Processors,Celeron,43201503
+1584,013090240,Computer Components,Processors,Other CPU,43201503
+1585,013090245,Computer Components,Processors,Pentium 4,43201503
+1586,013090247,Computer Components,Processors,Pentium III,43201503
+1587,013090248,Computer Components,Processors,Pentium D,43201503
+1588,013090250,Computer Components,Processors,Pentium Other,43201503
+1589,013090446,Computer Components,Processors,PowerPC G4,43201503
+1590,013114000,Computer Components,System Cabinets,"",43201601
+1591,013319164,Computer Components,Processors - Mobile,Celeron,43201503
+1592,013319240,Computer Components,Processors - Mobile,Other CPU,43201503
+1593,013319245,Computer Components,Processors - Mobile,Pentium 4,43201503
+1594,013319247,Computer Components,Processors - Mobile,Pentium III,43201503
+1595,013319542,Computer Components,Processors - Mobile,Intel Core 2 Duo,43201503
+1596,013320164,Computer Components,Processors - Desktop,Celeron,43201503
+1597,013320240,Computer Components,Processors - Desktop,Other CPU,43201503
+1598,013320245,Computer Components,Processors - Desktop,Pentium 4,43201503
+1599,013320247,Computer Components,Processors - Desktop,Pentium III,43201503
+1600,013321240,Computer Components,Processors - Server,Other CPU,43201503
+1601,013321247,Computer Components,Processors - Server,Pentium III,43201503
+1602,013321318,Computer Components,Processors - Server,Xeon,43201503
+1603,013322000,Computer Components,Whitebox Base Kit,"",43201601
+1604,013451134,Computer Components,DRAM - DIMM 200-pin,1GB,32101602
+1605,013451136,Computer Components,DRAM - DIMM 200-pin,256MB,32101602
+1606,013451140,Computer Components,DRAM - DIMM 200-pin,512MB,32101602
+1607,013451239,Computer Components,DRAM - DIMM 200-pin,Other,32101602
+1608,013516134,Computer Components,DRAM DDR,1GB,32101602
+1609,013516520,Computer Components,DRAM DDR,2GB,32101602
+1610,013516521,Computer Components,DRAM DDR,> 2GB,32101602
+1611,013516522,Computer Components,DRAM DDR,< 1GB,32101602
+1612,013517134,Computer Components,DRAM DDR2,1GB,32101602
+1613,013517520,Computer Components,DRAM DDR2,2GB,32101602
+1614,013517521,Computer Components,DRAM DDR2,> 2GB,32101602
+1615,013517522,Computer Components,DRAM DDR2,< 1GB,32101602
+1616,013518134,Computer Components,FB Dimms,1GB,32101602
+1617,013518520,Computer Components,FB Dimms,2GB,32101602
+1618,013518521,Computer Components,FB Dimms,> 2GB,32101602
+1619,013518522,Computer Components,FB Dimms,< 1GB,32101602
+1620,013519523,Computer Components,Digital Media,USB Drives,32101622
+1621,013519524,Computer Components,Digital Media,SD/CF Cards,32101622
+1622,013519525,Computer Components,Digital Media,Media Readers,32101617
+1623,013519526,Computer Components,Digital Media,Other Flash Memory,32101622
+1624,013643134,Computer Components,DRAM DDR3,1GB,32101602
+1625,013643520,Computer Components,DRAM DDR3,2GB,32101602
+1626,013643521,Computer Components,DRAM DDR3,> 2GB,32101602
+1627,013643522,Computer Components,DRAM DDR3,< 1GB,32101602
+1628,013702703,Computer Components,SDRAM DDR4,< 4GB,32101621
+1629,013702704,Computer Components,SDRAM DDR4,4GB,32101621
+1630,013702705,Computer Components,SDRAM DDR4,8GB,32101621
+1631,013702706,Computer Components,SDRAM DDR4,16GB,32101621
+1632,013702707,Computer Components,SDRAM DDR4,> 16GB,32101621
+1633,013738000,Computer Components,Motherboard Accessories,"",43211612
+1634,311312000,To Be Determined,Check Description,"",""
+1635,311313000,To Be Determined,No Category,"",""
+1636,311348000,To Be Determined,Nonstock or Synnex Internal -,"",""
+1637,311352000,To Be Determined,EMJ Products,"",""
+1638,311353000,To Be Determined,Supplies Products,"",""
+1639,311541000,To Be Determined,MFG,"",""
+1640,350100000,Office Machines and Supplies,Scanner,"",43211711
+1641,350100698,Office Machines and Supplies,Scanner,Portable / Mobile Scanner,43211711
+1642,350100699,Office Machines and Supplies,Scanner,Desktop Scanner,43211711
+1643,350101000,Office Machines and Supplies,Scanner Accessory,"",44102200
+1644,350351241,Office Machines and Supplies,Paper/Labels/Transparencies/Pl,Paper,14111506
+1645,350351265,Office Machines and Supplies,Paper/Labels/Transparencies/Pl,Printer transparency film,44103118
+1646,350351332,Office Machines and Supplies,Paper/Labels/Transparencies/Pl,"Large format, roll output medi",14111510
+1647,350351338,Office Machines and Supplies,Paper/Labels/Transparencies/Pl,"Small format, cut sheet output",14111506
+1648,350351354,Office Machines and Supplies,Paper/Labels/Transparencies/Pl,Laser/Inkjet Labels,55121605
+1649,350351355,Office Machines and Supplies,Paper/Labels/Transparencies/Pl,Office Paper/Labels,14111506
+1650,350351434,Office Machines and Supplies,Paper/Labels/Transparencies/Pl,Plastic Cards,44102000
+1651,350356000,Office Machines and Supplies,Photocopiers,"",44101501
+1652,350357239,Office Machines and Supplies,Photocopier Supplies,Other,44103100
+1653,350357361,Office Machines and Supplies,Photocopier Supplies,Collection Bottles and Bags,44103120
+1654,350357362,Office Machines and Supplies,Photocopier Supplies,"Developers, Starters, and Disp",44103108
+1655,350357363,Office Machines and Supplies,Photocopier Supplies,Drums,44103109
+1656,350357364,Office Machines and Supplies,Photocopier Supplies,Duplicator Supplies,44103100
+1657,350357365,Office Machines and Supplies,Photocopier Supplies,Fusers,44103100
+1658,350357366,Office Machines and Supplies,Photocopier Supplies,Maintenance Kits,44103107
+1659,350357367,Office Machines and Supplies,Photocopier Supplies,Staples,44103100
+1660,350357368,Office Machines and Supplies,Photocopier Supplies,Toners,44103103
+1661,350358000,Office Machines and Supplies,Fax Machines,"",44101508
+1662,350359369,Office Machines and Supplies,Fax Machine Supplies,Toners,44103103
+1663,350359370,Office Machines and Supplies,Fax Machine Supplies,Developers,44103108
+1664,350359371,Office Machines and Supplies,Fax Machine Supplies,Drums,44103109
+1665,350359372,Office Machines and Supplies,Fax Machine Supplies,Thermal Transfer Ribbons and R,44103117
+1666,350359373,Office Machines and Supplies,Fax Machine Supplies,Thermal Paper Rolls,44103119
+1667,350360374,Office Machines and Supplies,General Office Supplies,Ring Binders/Report Covers/Acc,44122003
+1668,350360375,Office Machines and Supplies,General Office Supplies,Batteries,26111700
+1669,350360376,Office Machines and Supplies,General Office Supplies,Bookkeeping Records,14111531
+1670,350360377,Office Machines and Supplies,General Office Supplies,Books and Planners,44112000
+1671,350360378,Office Machines and Supplies,General Office Supplies,Bulbs,39100000
+1672,350360379,Office Machines and Supplies,General Office Supplies,Cleaning Supplies,47000000
+1673,350360380,Office Machines and Supplies,General Office Supplies,Correction Supplies,44121800
+1674,350360381,Office Machines and Supplies,General Office Supplies,Desktop Accessories,44121600
+1675,350360382,Office Machines and Supplies,General Office Supplies,Drawing Supplies,44111800
+1676,350360383,Office Machines and Supplies,General Office Supplies,Envelopes,44121500
+1677,350360384,Office Machines and Supplies,General Office Supplies,Everyday Supplies,44121600
+1678,350360385,Office Machines and Supplies,General Office Supplies,Filing Equipment,44120000
+1679,350360386,Office Machines and Supplies,General Office Supplies,Forms,14111800
+1680,350360388,Office Machines and Supplies,General Office Supplies,Glue,44121631
+1681,350360390,Office Machines and Supplies,General Office Supplies,Mailroom Supplies,44121500
+1682,350360391,Office Machines and Supplies,General Office Supplies,Office Tools,44121600
+1683,350360392,Office Machines and Supplies,General Office Supplies,Office Tapes,44121600
+1684,350360393,Office Machines and Supplies,General Office Supplies,Pencils/Mechanical,44121700
+1685,350360394,Office Machines and Supplies,General Office Supplies,Post it Products,14111530
+1686,350360395,Office Machines and Supplies,General Office Supplies,Markers/Highlighters,44121700
+1687,350360396,Office Machines and Supplies,General Office Supplies,Pens,44121700
+1688,350360397,Office Machines and Supplies,General Office Supplies,Security Systems,81111801
+1689,350360398,Office Machines and Supplies,General Office Supplies,Small Office Supplies,44121600
+1690,350360399,Office Machines and Supplies,General Office Supplies,Staplers,44121615
+1691,350360400,Office Machines and Supplies,General Office Supplies,Shipping Supplies,44121500
+1692,350360401,Office Machines and Supplies,General Office Supplies,Stamping Supplies,44121600
+1693,350360402,Office Machines and Supplies,General Office Supplies,Storage Boxes & Carrying Cases,44111515
+1694,350360403,Office Machines and Supplies,General Office Supplies,Tool Kits,27113203
+1695,350360404,Office Machines and Supplies,General Office Supplies,Visual Supplies,45000000
+1696,350405239,Office Machines and Supplies,Business Machines,Other,44120000
+1697,350405408,Office Machines and Supplies,Business Machines,Binding Machines,44102800
+1698,350405409,Office Machines and Supplies,Business Machines,Calculators,44101800
+1699,350405410,Office Machines and Supplies,Business Machines,Checkwriters,44101900
+1700,350405411,Office Machines and Supplies,Business Machines,Collators,44102307
+1701,350405412,Office Machines and Supplies,Business Machines,Label Makers,44102400
+1702,350405413,Office Machines and Supplies,Business Machines,Laminators,44102801
+1703,350405414,Office Machines and Supplies,Business Machines,Letter Folder,44102106
+1704,350405415,Office Machines and Supplies,Business Machines,Laser Pointers,45111601
+1705,350405416,Office Machines and Supplies,Business Machines,Shredders,44101603
+1706,350406417,Office Machines and Supplies,Business Machine Supplies,Binding Mach Supplies,44103500
+1707,350406418,Office Machines and Supplies,Business Machine Supplies,Label Maker Tapes and Accessor,55121600
+1708,350406419,Office Machines and Supplies,Business Machine Supplies,Laminator Supplies,44102000
+1709,350407420,Office Machines and Supplies,POS/Banking/Calculator Supplie,Ink Rolls,44103111
+1710,350407421,Office Machines and Supplies,POS/Banking/Calculator Supplie,Paper Products,14111515
+1711,350407422,Office Machines and Supplies,POS/Banking/Calculator Supplie,Ribbons,44103112
+1712,350423424,Office Machines and Supplies,Audio/Video Products,Audio Tapes,52161600
+1713,350423425,Office Machines and Supplies,Audio/Video Products,Video Tapes,45131604
+1714,350426000,Office Machines and Supplies,Overhead Projectors and Access,"",45111600
+1715,350696000,Office Machines and Supplies,Office Furniture,"",56101700
+1716,544554000,TV & Video,LCD TV,"",43211904
+1717,544555000,TV & Video,Plasma TV,"",43211904
+1718,544556000,TV & Video,DVD Players/Recorders,"",52161516
+1719,544557000,TV & Video,TV Mounts,"",45111809
+1720,544558000,TV & Video,TV & Video Warranties,"",81111812
+1721,544559000,TV & Video,TV & Video Accessories,"",43212000
+1722,544560000,TV & Video,VCR,"",52161529
+1723,544631000,TV & Video,CRT TV,"",43211904
+1724,545561000,Home Audio,Home Speakers,"",43211607
+1725,545562000,Home Audio,Home Theatre in a Box,"",52161500
+1726,545563000,Home Audio,CD Players,"",52161515
+1727,545564000,Home Audio,Receivers,"",52161524
+1728,545565000,Home Audio,Shelf Stereo Systems,"",52161510
+1729,545566000,Home Audio,Clock Radios,"",52161507
+1730,545567000,Home Audio,Karaoke,"",52161532
+1731,545568000,Home Audio,Home Audio Warranties,"",80161507
+1732,545569000,Home Audio,Home Audio Accessories,"",52161600
+1733,546570000,Portable Electronics,MP3 Players,"",52161543
+1734,546571000,Portable Electronics,Headphone,"",52161514
+1735,546572000,Portable Electronics,GPS,"",52161518
+1736,546573000,Portable Electronics,Ipod Accessories,"",52161605
+1737,546574000,Portable Electronics,MP3 Accessories,"",52161605
+1738,546575000,Portable Electronics,Portable Audio,"",52161543
+1739,546576000,Portable Electronics,Portable DVD Players,"",52161516
+1740,546577000,Portable Electronics,Car Electronics,"",39121006
+1741,546578000,Portable Electronics,Satellite Radio,"",32101655
+1742,546579000,Portable Electronics,Portable Speakers,"",43211607
+1743,546580000,Portable Electronics,Portable Electronic Accessorie,"",52161605
+1744,546581000,Portable Electronics,Car Electronic Accessories,"",39121006
+1745,546632000,Portable Electronics,PDA,"",43211504
+1746,546716717,Portable Electronics,Wearable Devices,Fitness/Watch,43211511
+1747,546716718,Portable Electronics,Wearable Devices,Health,43211511
+1748,546716719,Portable Electronics,Wearable Devices,GPS Locator,52161518
+1749,546716720,Portable Electronics,Wearable Devices,Eyewear,43211511
+1750,547582000,Projectors,Home Theatre projectors,"",45111616
+1751,547583000,Projectors,Multi Media Projectors,"",45111609
+1752,547584000,Projectors,Projector Screens,"",45111603
+1753,547585000,Projectors,Projector Mounts,"",56101710
+1754,547586000,Projectors,Projector Replacement Lamps,"",45111602
+1755,547587000,Projectors,Projector Warranties,"",81111812
+1756,547588000,Projectors,Projector Accessories,"",43212000
+1757,548589000,Appliances,Freezers,"",52141506
+1758,548590000,Appliances,Microwave,"",52141502
+1759,548591000,Appliances,Refrigerator,"",52141501
+1760,548592000,Appliances,Toaster/Oven,"",52141521
+1761,548593000,Appliances,Water Cooler,"",49121510
+1762,548594000,Appliances,Wine Cooler,"",49121510
+1763,548595000,Appliances,Patio Heater,"",40101819
+1764,548596000,Appliances,Fans,"",40101604
+1765,548597000,Appliances,Thermo Pot,"",52152008
+1766,548598000,Appliances,Cooker,"",52141544
+1767,548599000,Appliances,Bread Maker,"",52141518
+1768,548600000,Appliances,Vacuum,"",47121602
+1769,548601000,Appliances,Iron,"",52141603
+1770,548602000,Appliances,Massage Chair,"",42192103
+1771,548743000,Appliances,Other Appliances,"",52141800
+1772,549603000,Photo,Digital Cameras,"",45121504
+1773,549604000,Photo,Camcorders,"",45121516
+1774,549605000,Photo,Digital Photo Frames,"",60122502
+1775,549606000,Photo,Lenses,"",45121603
+1776,549607000,Photo,Photo Paper & Ink,"",44103100
+1777,549608000,Photo,Photo Warranties,"",81111812
+1778,549609000,Photo,Photo Accessories,"",44101700
+1779,550610000,UCC/Mobility/Telecom,Cordless Phones,"",43191512
+1780,550611000,UCC/Mobility/Telecom,Corded Phones,"",43191504
+1781,550612000,UCC/Mobility/Telecom,Cell Phones,"",43191501
+1782,550612730,UCC/Mobility/Telecom,Cell Phones,iPhone,43191501
+1783,550612731,UCC/Mobility/Telecom,Cell Phones,Android Phones,43191501
+1784,550613000,UCC/Mobility/Telecom,VOIP Phones,"",43191511
+1785,550614000,UCC/Mobility/Telecom,2-Way radios,"",43191510
+1786,550615000,UCC/Mobility/Telecom,Phone Accessories,"",43191600
+1787,550732239,UCC/Mobility/Telecom,Cell Phone Accessory,Other,43202201
+1788,550732733,UCC/Mobility/Telecom,Cell Phone Accessory,iPhone Cases,43202106
+1789,550732734,UCC/Mobility/Telecom,Cell Phone Accessory,Android Cases,43202106
+1790,550732735,UCC/Mobility/Telecom,Cell Phone Accessory,iPhone Cables,39121440
+1791,550732736,UCC/Mobility/Telecom,Cell Phone Accessory,Android Cables,39121440
+1792,550732737,UCC/Mobility/Telecom,Cell Phone Accessory,Phone Chargers,26111704
+1793,550751146,UCC/Mobility/Telecom,Hardware UCC/Audio,Accessories,52161600
+1794,550751752,UCC/Mobility/Telecom,Hardware UCC/Audio,Endpoints,52161500
+1795,550753146,UCC/Mobility/Telecom,Hardware UCC/Video,Accessories,52161600
+1796,550753752,UCC/Mobility/Telecom,Hardware UCC/Video,Endpoints,52161500
+1797,550754756,UCC/Mobility/Telecom,Software UCC/Audio,Software Licensing/On Premise,81112501
+1798,550754757,UCC/Mobility/Telecom,Software UCC/Audio,Software Licensing/Cloud Hoste,81112501
+1799,550755756,UCC/Mobility/Telecom,Software UCC/Video,Software Licensing/On Premise,81112501
+1800,550755757,UCC/Mobility/Telecom,Software UCC/Video,Software Licensing/Cloud Hoste,81112501
+1801,550758000,UCC/Mobility/Telecom,Software Application,"",43232700
+1802,550758759,UCC/Mobility/Telecom,Software Application,Collaboration,43232700
+1803,550758803,UCC/Mobility/Telecom,Software Application,Hosted,43232700
+1804,550758804,UCC/Mobility/Telecom,Software Application,Cloud,43232700
+1805,550760239,UCC/Mobility/Telecom,UCC/Professional Services,Other,81161700
+1806,550760761,UCC/Mobility/Telecom,UCC/Professional Services,Tech Support,81161700
+1807,550760762,UCC/Mobility/Telecom,UCC/Professional Services,Training,81161700
+1808,550760763,UCC/Mobility/Telecom,UCC/Professional Services,Warranty/Maintenance,81161700
+1809,550760764,UCC/Mobility/Telecom,UCC/Professional Services,Installation/Deployment,81161700
+1810,550765000,UCC/Mobility/Telecom,Hardware Others,"",42211508
+1811,550766000,UCC/Mobility/Telecom,Solutions,"",43232700
+1812,551616000,Digital Signage,LCD Displays,"",43211903
+1813,551617000,Digital Signage,Plasma Displays,"",43211903
+1814,551618000,Digital Signage,Flat Panel Display Mounts,"",43212002
+1815,551619000,Digital Signage,Digital Signage Video Componen,"",52161600
+1816,551620000,Digital Signage,Digital Signage Audio Componen,"",52161600
+1817,551621000,Digital Signage,Digital Signage Warranties,"",81111812
+1818,552622000,Security,Security Cameras,"",46171610
+1819,552623000,Security,Security Camera Lenses,"",45121603
+1820,552624000,Security,Security Monitors,"",43211901
+1821,552625000,Security,Digital Video Recorders,"",52161545
+1822,552626000,Security,Camera Mounts / Housings,"",45121600
+1823,552627000,Security,Security Accessories,"",43222500
+1824,552765000,Security,Hardware Others,"",43222500
+1825,552766000,Security,Solutions,"",81111812
+1826,552767173,Security,Software Security,Data security,43233200
+1827,552767225,Security,Software Security,Management Application,43233200
+1828,552767768,Security,Software Security,Email Security,43233200
+1829,552767769,Security,Software Security,Application,43233200
+1830,552767770,Security,Software Security,Web Security,43233200
+1831,552767771,Security,Software Security,Endpoint Security,43233200
+1832,552767772,Security,Software Security,Mobile Security,43233200
+1833,552767773,Security,Software Security,Identity Access & Management,43233200
+1834,552767774,Security,Software Security,Security Training / Awareness,43233200
+1835,552767775,Security,Software Security,Risk Management,43233200
+1836,552767776,Security,Software Security,Data Center,43233200
+1837,552767777,Security,Software Security,Network Subscription,43233200
+1838,552778239,Security,Security/Service /Support,Other,81111812
+1839,552778774,Security,Security/Service /Support,Security Training / Awareness,81111812
+1840,552778775,Security,Security/Service /Support,Risk Management,81111812
+1841,552778782,Security,Security/Service /Support,Security Maintenance / Support,81111812
+1842,552778783,Security,Security/Service /Support,Security Technical,81111812
+1843,552784239,Security,Cloud Security,Other,81111812
+1844,552784785,Security,Cloud Security,Virtual Appliances,81111812
+1845,552784786,Security,Cloud Security,SaaS / Subscriptions,81111812
+1846,552784787,Security,Cloud Security,Managed Security Services,81111812
+1847,552800801,Security,Hardware Network Security,Accessories/Adapter,43222500
+1848,552800802,Security,Hardware Network Security,Wireless & IoT Security,43222500
+1849,553628239,Gaming,Console Software,Other,43232000
+1850,553628651,Gaming,Console Software,Specialty,43232000
+1851,553628652,Gaming,Console Software,Frontline,43232000
+1852,553628653,Gaming,Console Software,Value,43232000
+1853,553628654,Gaming,Console Software,Budget,43232000
+1854,553629000,Gaming,Gaming Systems,"",60141104
+1855,553630000,Gaming,Gaming Accessories,"",60141111
+1856,553650000,Gaming,Gaming Service,"",81112200
+1857,553655000,Gaming,Gaming Components,"",60141111
+1858,553656657,Gaming,PC Software,Entertainment / Education,43232000
+1859,553656658,Gaming,PC Software,Productivity,43232000
+1860,721722724,Drones,Drones,Drones with Camera,25131705
+1861,721722725,Drones,Drones,Drones without Camera,25131705
+1862,721723726,Drones,Drone Accessory,Drone Cases & Backpacks,53121603
+1863,721723727,Drones,Drone Accessory,Drone Batteries & Chargers,26111704
+1864,721723728,Drones,Drone Accessory,Drone Gimbals,43221727
+1865,721723729,Drones,Drone Accessory,Drone Parts & Accessories,39122221
+1866,779780781,WCC TBD,WCC TBD,WCC TBD,43233200

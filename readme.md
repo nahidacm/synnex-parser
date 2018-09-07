@@ -22,6 +22,16 @@ Add an empty column at the beginning of the file. That column represents auto in
 
 **Image Downloader**
 
+`git clone git@github.com:nahidacm/batch-file-downloader.git`
+
+`cd batch-file-downloader`
+
+`composer install`
+
+`php ./console.php downloader:download /var/www/cli-apps/batch-file-downloader/sample-input.csv /home/nhd/Pictures/mobile-and-gadgets`
+
+Create an CSV file only with image urls like `icecat-images.csv` if there is multiple images in single row, they must be pipe(|) separated.
+
 `php ./console.php icecat:image:download  /var/www/synnex-app/icecat-images.csv /var/www/synnex-app/ice-images/`
 
 
